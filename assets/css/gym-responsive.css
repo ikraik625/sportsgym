@@ -1,0 +1,4489 @@
+/* start member workout design*/
+
+
+
+@media only screen and (max-width : 991px) 
+
+
+
+{
+
+
+
+	.workout_box
+
+
+
+	{
+
+
+
+		margin-bottom: 10px;
+
+
+
+		/* width: 48%;		 */
+
+
+
+		margin-right: 10px;
+
+
+
+	}
+
+
+
+	/* .activity_width,.activity_width_fronted
+
+
+
+	{
+
+
+
+		float: left;
+
+
+
+		width: 80%;
+
+
+
+		padding-left: 10px!important;
+
+
+
+	} */
+
+
+
+}
+
+
+
+@media only screen and (max-width : 729px) 
+
+
+
+{
+
+
+
+	.activity_width_fronted
+
+
+
+	{
+
+
+
+		width: 77%;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 679px) 
+
+
+
+{
+
+
+
+	.activity_width
+
+
+
+	{
+
+
+
+		width: 78%;		
+
+
+
+	}
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 73%;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 637px) 
+
+
+
+{
+
+
+
+	.activity_width
+
+
+
+	{
+
+
+
+		width: 75%;		
+
+
+
+	}
+
+
+
+	/* .workout_box
+
+
+
+	{	
+
+
+
+		width: 47%;	
+
+
+
+	} */
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 70%;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 587px) 
+
+
+
+{
+
+
+
+	.activity_width
+
+
+
+	{
+
+
+
+		width: 72%;		
+
+
+
+	}
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 68%;
+
+
+
+	}
+
+
+
+	/* .workout_box
+
+
+
+	{	
+
+
+
+		width: 46%;	
+
+
+
+	} */
+
+
+
+	.workout_of
+
+
+
+	{
+
+
+
+		font-size: 13px!important;
+
+
+
+	}
+
+
+
+	img.dashboard_background_second {
+
+
+
+		right: -22px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 587px) 
+
+
+
+{
+
+
+
+	/* .workout_box
+
+
+
+	{	
+
+
+
+		width: 100%;	
+
+
+
+	}	 */
+
+
+
+	.workout_of
+
+
+
+	{
+
+
+
+		font-size: 16px!important;
+
+
+
+	}
+
+
+
+	.activity_width 
+
+
+
+	{
+
+
+
+		width: 85%;
+
+
+
+	}
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 80%;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 470px) 
+
+
+
+{
+
+
+
+	.activity_width 
+
+
+
+	{
+
+
+
+		width: 82%;
+
+
+
+	}
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 77%;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 420px) 
+
+
+
+{
+
+
+
+	.activity_width 
+
+
+
+	{
+
+
+
+		width: 79%;
+
+
+
+	}
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 73%;
+
+
+
+	}
+
+
+
+	.workout_of 
+
+
+
+	{
+
+
+
+		font-size: 13px!important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 375px) 
+
+
+
+{
+
+
+
+	.activity_width 
+
+
+
+	{
+
+
+
+		width: 77%;
+
+
+
+	}
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 72%;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 606px) 
+
+
+
+{
+
+
+
+	a.nav-tab.payment_responsivenav-tab-active {
+
+
+
+    margin-left: -22px;
+
+
+
+}
+
+
+
+a.nav-tab.payement_list_resnav-tab-active
+
+
+
+{
+
+
+
+margin-left:-20px;
+
+
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width : 440px) 
+
+
+
+{
+
+
+
+	.membr_left img {
+
+
+
+    height: 180px;
+
+
+
+    width: 180px;
+
+
+
+}
+
+
+
+div#slider1_container{
+
+
+
+	top:60px;
+
+
+
+	
+
+
+
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width : 345px) 
+
+
+
+{
+
+
+
+	.activity_width 
+
+
+
+	{
+
+
+
+		width: 73%;
+
+
+
+	}
+
+
+
+	.activity_width_fronted 
+
+
+
+	{
+
+
+
+		width: 68%;
+
+
+
+	}
+
+
+
+	.workout_of 
+
+
+
+	{
+
+
+
+		font-size: 10px!important;
+
+
+
+	}
+
+
+
+	.activity_width_fronted
+
+
+
+	{
+
+
+
+	    padding-left: 8px!important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 1400px) 
+
+
+
+{
+
+
+
+	.workout_of
+
+
+
+	{
+
+
+
+		font-size: 15px;
+
+
+
+	}
+
+
+
+	.col-md-12.workout_datalist.no-padding.dis_flex
+
+
+
+	{
+
+
+
+		display: block !important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 1168px) and (max-width: 1260px)
+
+
+
+{
+
+
+
+	.workout_of
+
+
+
+	{
+
+
+
+		font-size: 14px!important;
+
+
+
+	}
+
+
+
+	.padding_10
+
+
+
+	{
+
+
+
+		padding-left:10px!important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 1075px) and (max-width: 1167px)
+
+
+
+{
+
+
+
+	.workout_of
+
+
+
+	{		
+
+
+
+		font-size: 12px!important;
+
+
+
+	}	
+
+
+
+	.padding_10
+
+
+
+	{
+
+
+
+		padding-left:12px!important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 1042px) and (max-width: 1076px)
+
+
+
+{
+
+
+
+	.workout_of
+
+
+
+	{		
+
+
+
+		font-size: 11px!important;
+
+
+
+	}	
+
+
+
+	.padding_10
+
+
+
+	{
+
+
+
+		padding-left:15px!important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1043px)
+
+
+
+{
+
+
+
+	.workout_of
+
+
+
+	{		
+
+
+
+		font-size: 10px!important;
+
+
+
+	}	
+
+
+
+	.padding_10
+
+
+
+	{
+
+
+
+		padding-left:15px!important;
+
+
+
+	}
+
+
+
+}
+
+
+
+/* end member workout design*/
+
+
+
+/* Extra Small Devices, Phones */ 
+
+
+
+@media only screen and (max-width : 990px) {
+
+
+
+.col-md-4.member_right {
+
+
+
+  margin-left: 0;
+
+
+
+   margin-top: 40px;
+
+
+
+  width: 100%;
+
+
+
+}
+
+
+
+.col-md-3 .checkbox {
+
+
+
+  float: left;
+
+
+
+  margin: 0 5px;
+
+
+
+}
+
+
+
+.col-md-8.activity_list {
+
+
+
+  float: left;
+
+
+
+  margin-top: 10px;
+
+
+
+  width: 100%;
+
+
+
+}
+
+
+
+.col-md-6.staff_report_all{
+
+
+
+	padding:0px;
+
+
+
+}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 920px) {
+
+
+
+	.fc-toolbar .fc-state-active, .fc-toolbar .ui-state-active {
+
+
+
+  z-index: 3;
+
+
+
+}
+
+
+
+.gym-management-content .page-inner {
+
+
+
+  margin-left: 0;
+
+
+
+ /*  margin-top: 115px; */
+
+
+
+}
+
+
+
+.nav-side-menu .toggle-btn, .nav-side-menu .brand {
+
+
+
+  background: #2e353d none repeat scroll 0 0;
+
+
+
+  color: #ffffff;
+
+
+
+  display: block;
+
+
+
+  position: relative;
+
+
+
+  width: 100%;
+
+
+
+  z-index: 4;
+
+
+
+}
+
+
+
+.nav.nav-pills.nav-stacked.collapse.in {
+
+
+
+  background: #2e353d none repeat scroll 0 0;
+
+
+
+  margin-top: 0;
+
+
+
+  position: absolute;
+
+
+
+  width: 100%;
+
+
+
+  z-index: 4;
+
+
+
+}
+
+
+
+	
+
+
+
+	.gym-management-content .col-sm-2.nopadding.gym_left{width:100%; position: relative;}
+
+
+
+	.gym_left ul li a {float: left;width:100%;}
+
+
+
+
+
+
+
+	 .nav-side-menu {
+
+
+
+  
+
+
+
+    width: 100%;
+
+
+
+     margin-top: 65px;
+
+
+
+   /*  margin-bottom: 10px; */
+
+
+
+  }
+
+
+
+ .nav-side-menu .toggle-btn {
+
+
+
+  background-color: #ffffff;
+
+
+
+  color: #000000;
+
+
+
+  cursor: pointer;
+
+
+
+  display: block;
+
+
+
+  font-size: 27px;
+
+
+
+  height: 32px;
+
+
+
+  padding: 3px;
+
+
+
+  position: absolute;
+
+
+
+  right: 12px;
+
+
+
+  text-align: center;
+
+
+
+  top: 10px;
+
+
+
+  width: 48px;
+
+
+
+}
+
+
+
+   .brand {
+
+
+
+    text-align: left !important;
+
+
+
+    font-size: 22px;
+
+
+
+    padding-left: 20px;
+
+
+
+    line-height: 50px !important;
+
+
+
+  }
+
+
+
+}
+
+
+
+@media only screen and (max-width : 991px) {
+
+
+
+	.mailbox-header h2{
+
+
+
+		margin: 0 !important; 
+
+
+
+		text-align: left !important;
+
+
+
+	}
+
+
+
+	.work_out_datalist{
+
+
+
+		padding:0;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 768px) {
+
+
+
+	.text_align_left_res
+
+
+
+	{
+
+
+
+		text-align:left !important;
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+	.margin_dasboard {
+
+
+
+		margin-top: -30px;
+
+
+
+	}
+
+
+
+	.padding_15_res
+
+
+
+	{
+
+
+
+		padding:15px !important;
+
+
+
+	}
+
+
+
+	.achilactiveadd > input {
+
+
+
+		float: left;
+
+
+
+		width: 170px;
+
+
+
+	}
+
+
+
+	.atendance_div_res
+
+
+
+	{
+
+
+
+		max-width: 240px;
+
+
+
+		overflow: auto;
+
+
+
+	}
+
+
+
+	/* .panel .panel-heading .panel-title 
+
+
+
+	{
+
+
+
+		width: 260px !important;
+
+
+
+	} */
+
+
+
+	.min_height_1200px_res
+
+
+
+	{
+
+
+
+		min-height: 1200px !important;
+
+
+
+	}
+
+
+
+	.modal-backdrop {
+
+
+
+		position: fixed;
+
+
+
+		top: 0;
+
+
+
+		left: 0;
+
+
+
+		z-index: 1040;
+
+
+
+		width: 0;
+
+
+
+		height: 0;
+
+
+
+		background-color: #000;
+
+
+
+	}
+
+
+
+	.float_unset_Res	
+
+
+
+	{
+
+
+
+		float: unset !important;
+
+
+
+	}
+
+
+
+	.membr_left .col-md-6.right_side,.membr_left .col-md-6.left_side{width:100%;margin-top:10px;}
+
+
+
+	.right_side .table_row, .member_right .table_row{margin-top:10px;}
+
+
+
+	.table_row .table_td{float:left;}
+
+
+
+		.right_side .panel.info-box .panel-body {
+
+
+
+	background-position: right 0;
+
+
+
+	
+
+
+
+	}
+
+
+
+	
+
+
+
+	#btn-add-cat {
+
+
+
+	margin-bottom: 10px;
+
+
+
+	margin-top: 10px;
+
+
+
+	}
+
+
+
+	/* #addremove {
+
+
+
+		margin-top: 10px;
+
+
+
+	} */
+
+
+
+	.col-md-6.borderleft {
+
+
+
+	margin-left: 0;
+
+
+
+	width: 100%;
+
+
+
+	}
+
+
+
+	.mailbox-header h2{
+
+
+
+		margin-top:10px !important;
+
+
+
+		margin-top:10px !important;
+
+
+
+	}
+
+
+
+	.col-md-8.membr_left, .col-md-4.member_right{
+
+
+
+		float:left; margin-top: 40px;
+
+
+
+	}
+
+
+
+	.form-group .col-sm-10 .col-md-3 .checkbox
+
+
+
+	{
+
+
+
+		float: left;	
+
+
+
+	}
+
+
+
+	.word_break_all_res
+
+
+
+	{
+
+
+
+		word-break: break-all;
+
+
+
+	}
+
+
+
+	.notice_page .res_div
+
+
+
+	{
+
+
+
+		height: 800px !important;
+
+
+
+		min-height: 800px !important;
+
+
+
+	}
+
+
+
+	.accordion-button
+
+
+
+	{
+
+
+
+		font-size:14px;
+
+
+
+	}
+
+
+
+	/*input[type=radio], input[type=checkbox] 
+
+
+
+	{
+
+
+
+		height: 20px;
+
+
+
+		width: 20px;
+
+
+
+	}*/
+
+
+
+	/* .form-group input[type="checkbox"],.form-group  input[type="radio"]
+
+
+
+	{
+
+
+
+		margin-left: -24px;
+
+
+
+	} */
+
+
+
+	.marign_left_0_res
+
+
+
+	{
+
+
+
+		margin-left: 0px !important;	
+
+
+
+	}
+
+
+
+	input.member_convert
+
+
+
+	{
+
+
+
+		margin-left:0px !important;
+
+
+
+	}
+
+
+
+		.work_out_datalist .col-md-3.col-sm-3.col-xs-12 {
+
+
+
+	font-weight: bold;
+
+
+
+	}
+
+
+
+	.col-sm-3 .btn-success{
+
+
+
+		margin-top:10px;
+
+
+
+	}
+
+
+
+	#income_form #income_entry input {
+
+
+
+		margin-bottom: 6px;
+
+
+
+	}
+
+
+
+	
+
+
+
+	.auto-fold #wpcontent {
+
+
+
+		padding-left: 0px !important;
+
+
+
+	}
+
+
+
+	.fc-view-harness
+
+
+
+	{
+
+
+
+		height: 300px !important;
+
+
+
+	}
+
+
+
+	.fc-daygrid-day-bottom
+
+
+
+	{
+
+
+
+		margin-top: -15px !important;
+
+
+
+		padding: 0!important
+
+
+
+	}
+
+
+
+	.margin_top_10_res
+
+
+
+	{
+
+
+
+		margin-top:10px;
+
+
+
+	}
+
+
+
+	/* #chk_sms_sent
+
+
+
+	{
+
+
+
+		margin-left: 0 !important;
+
+
+
+	} */
+
+
+
+	.margin_left_0_res
+
+
+
+	{
+
+
+
+		margin-left: 0 !important;
+
+
+
+	}
+
+
+
+	.marign_left_10_res
+
+
+
+	{
+
+
+
+		margin-left: 10px !important;
+
+
+
+	}
+
+
+
+	
+
+
+
+	.margin_left_5_res
+
+
+
+	{
+
+
+
+		margin-left:5px;
+
+
+
+	}
+
+
+
+	.col-sm-8 .radio-inline .margin_left_5_res
+
+
+
+	{
+
+
+
+		margin-left:5px !important;
+
+
+
+	}
+
+
+
+
+
+
+
+	.margin_bottom_5_res
+
+
+
+	{
+
+
+
+		margin-bottom:5px;
+
+
+
+	}
+
+
+
+	.text_align_left_res
+
+
+
+	{
+
+
+
+		text-align: left;
+
+
+
+	}
+
+
+
+
+
+
+
+	.float_left_res_important
+
+
+
+	{
+
+
+
+		float: left !important;
+
+
+
+	}
+
+
+
+	.hight_auto_res_div .hight_auto_res {
+
+
+
+		height:auto !important;
+
+
+
+	}
+
+
+
+	.font_size_13 a
+
+
+
+	{
+
+
+
+		font-size: 13px;
+
+
+
+	}
+
+
+
+	.float_right_res
+
+
+
+	{
+
+
+
+		float: right;
+
+
+
+	}
+
+
+
+	.res_div #main-wrapper
+
+
+
+	{
+
+
+
+		margin:0!important;
+
+
+
+	}
+
+
+
+	.access_right_menucroll .checkbox input[type=checkbox] {
+
+
+
+		margin-left: 0!important;
+
+
+
+	}
+
+
+
+	#access_right_form > .row .col-md-2.col-sm-2.col-xs-2:nth-child(2) 
+
+
+
+	{
+
+
+
+		min-width: 40px !important;
+
+
+
+	}
+
+
+
+	#access_right_form > .row .col-md-2.col-sm-2.col-xs-2:nth-child(3) {
+
+
+
+		min-width: 40px !important;
+
+
+
+	}
+
+
+
+	#access_right_form > .row .col-md-2.col-sm-2.col-xs-2:nth-child(2) {
+
+
+
+		min-width: 40px !important;
+
+
+
+	}
+
+
+
+	#access_right_form > .row .col-md-2.col-sm-2.col-xs-2:nth-child(4) {
+
+
+
+		min-width: 40px !important;
+
+
+
+	}
+
+
+
+	#access_right_form > .row .col-md-2.col-sm-2.col-xs-2:nth-child(5) {
+
+
+
+		min-width: 40px !important;
+
+
+
+	}
+
+
+
+	#access_right_form .access_right_menucroll .col-md-2.col-sm-2.col-xs-2, #access_right_form .row .col-md-2.col-sm-2.col-xs-2 {
+
+
+
+		margin-bottom: 0px !important;
+
+
+
+	}
+
+
+
+	#access_right_form > .row .col-md-2.col-sm-2.col-xs-2:first-child {
+
+
+
+		min-width: 250px !important;
+
+
+
+	}
+
+
+
+	.res_css_nutration_div
+
+
+
+	{
+
+
+
+		margin-top: 10%;
+
+
+
+		margin-left: -7px;
+
+
+
+	}
+
+
+
+	.float_left_width_100_res {
+
+
+
+		float: left;
+
+
+
+		width: 100%;
+
+
+
+	}
+
+
+
+	.nutrisition_activity_box 
+
+
+
+	{
+
+
+
+		max-width: 100%;
+
+
+
+		overflow-x: auto;
+
+
+
+		float: unset !important;
+
+
+
+	}
+
+
+
+	.margin_right_5_res
+
+
+
+	{
+
+
+
+		margin-right: 5px;
+
+
+
+	}
+
+
+
+   .gym-management-content .col-sm-2.nopadding.gym_left { 
+
+
+
+         height: 100%;
+
+
+
+          margin-top: 70px !important;
+
+
+
+          float:left;
+
+
+
+   }
+
+
+
+   .logo-image span
+
+   {
+
+	   display:none;
+
+   }
+
+   .add_workout_bottomspace{
+
+	   margin-bottom : 10px !important;
+
+   }
+
+   #s2id_member_list .select2-choice .select2-arrow b{
+
+    background: #f3f3f3 url(data:image/svg+xml;charset=US-ASCII,%3Csvg%20width%3D%2220%22%20height%3D%2220%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M5%206l5%205%205-5%202%201-7%207-7-7%202-1z%22%20fill%3D%22%23555%22%2F%3E%3C%2Fsvg%3E) no-repeat right -3px top 59% !important;
+
+	}
+
+	
+
+
+
+}
+
+
+
+@media only screen and (max-width : 600px) {
+
+
+
+	.mainpage .navbar h3 span {
+
+
+
+	  display: none;
+
+
+
+	}
+
+
+
+	.right_side .panel.info-box .panel-body {
+
+
+
+		background-position: right 0;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 480px) 
+
+
+
+{
+
+
+
+	.col-md-4.membership-list{
+
+
+
+	  width: 100% !important;
+
+
+
+	  float:left !important;
+
+
+
+	}
+
+
+
+	.col-md-8.col-sm-8.col-xs-6 {
+
+
+
+	  width: 20%;
+
+
+
+	}
+
+
+
+	.nav.navbar-right.col-md-4.col-sm-4.col-xs-6 {
+
+
+
+	  width: 79%;
+
+
+
+	}
+
+
+
+	.right_side .col-xs-6 {
+
+
+
+	  width: 100%;
+
+
+
+	}
+
+
+
+	#main-wrapper .col-xs-6 {
+
+
+
+	  width: 100%;
+
+
+
+	}
+
+
+
+	.info-box .panel-body {
+
+
+
+	  background-position: right center !important;
+
+
+
+	}
+
+
+
+	#calendar .fc-toolbar .fc-left,
+
+
+
+	#calendar .fc-toolbar .fc-right,
+
+
+
+	#calendar .fc-toolbar .fc-center{
+
+
+
+		float:left;width: 100%;padding-bottom:10px;
+
+
+
+	}
+
+
+
+	.table .btn-primary{
+
+
+
+		width: 100%;margin-bottom:5px;
+
+
+
+	}
+
+
+
+	.period_box {
+
+
+
+	  position: relative;
+
+
+
+	  white-space: normal;
+
+
+
+	}
+
+
+
+	.team .team-member{
+
+
+
+		width:100%;
+
+
+
+	}
+
+
+
+	.achilactiveadd{
+
+
+
+		width:100%;padding-left: 0px;
+
+
+
+	}
+
+
+
+	.col-md-6.sets-row 
+
+
+
+	{
+
+
+
+  		width: 100%;
+
+
+
+  	}
+
+
+
+	.col-md-1.update_dp
+
+
+
+	{
+
+
+
+		margin: 10px 0 0 54px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 767px) 
+
+
+
+{
+
+
+
+	.view_details_popup_body
+
+
+
+	{
+
+
+
+		overflow: scroll;
+
+
+
+		/* height: 250px; */
+
+
+
+		height: auto;
+
+
+
+	}	
+
+
+
+}
+
+
+
+@media (min-width: 1000px) and (max-width: 1200px)
+
+
+
+{
+
+
+
+	.view_details_popup_body label
+
+
+
+	{
+
+
+
+		font-size: 11px!important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 1450px)
+
+
+
+{
+
+
+
+	#addremove
+
+
+
+	{		
+
+
+
+		font-size: 12px;
+
+
+
+		padding: 2px;
+
+
+
+		margin-right: 0px!important;
+
+
+
+	}
+
+
+
+} 
+
+
+
+@media (min-width: 768px) and (max-width: 1400px)
+
+
+
+{
+
+
+
+	.workput_no_Css
+
+
+
+	{
+
+
+
+		padding: 7px !important;
+
+
+
+	}
+
+
+
+	.col-md-12.workout_datalist.no-padding.dis_flex
+
+
+
+	{
+
+
+
+		display: flex !important;
+
+
+
+	}
+
+
+
+} 
+
+
+
+
+
+
+
+/* rinkal new add responsive css*/
+
+
+
+@media only screen and (max-width : 470px) 
+
+
+
+{
+
+
+
+	.membership_btn .panel-body{
+
+
+
+		overflow: scroll;
+
+
+
+	}
+
+
+
+	.invoice_btn .panel-body{
+
+
+
+		overflow: scroll;
+
+
+
+	}
+
+
+
+	.page-title h3 {
+
+
+
+    	font-size: 19px;
+
+
+
+	}
+
+
+
+	.tooltiptopicevent {
+
+
+
+		width: auto !important;
+
+
+
+		height: auto !important;
+
+
+
+		left: 75px !important;
+
+
+
+		right: 25px !important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 900px) {
+
+
+
+	#main-wrapper{
+
+
+
+		/* margin: 20px 20px 20px 28px !important; */
+
+
+
+		margin: 20px 25px 20px 25px !important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 380px) 
+
+
+
+{
+
+
+
+	.panel .panel-heading .panel-title {
+
+
+
+		font-size: 13px !important;
+
+
+
+	}
+
+
+
+	.calendar-event .remainder_title {
+
+
+
+		float: left;
+
+
+
+	}
+
+
+
+	.calendar-event .remainder_date {
+
+
+
+		float: left;
+
+
+
+	}
+
+
+
+	.calendar-event .remainder_title {
+
+
+
+		float: left;
+
+
+
+		width: calc(100% - 0%);
+
+
+
+	}
+
+
+
+	.calendar-event .remainder_title_pr {
+
+
+
+		float: left!important;
+
+
+
+		width: calc(100% - 49px)!important;
+
+
+
+	}
+
+
+
+	.calendar-event .remainder_date_pr {
+
+
+
+		float: left;
+
+
+
+	}
+
+
+
+	.col-md-6.report_all{
+
+
+
+		padding: 0px;
+
+
+
+	}
+
+
+
+	.col-md-1.update_dp
+
+
+
+	{
+
+
+
+		margin: 10px 0 0 58px;
+
+
+
+	}
+
+
+
+	.col-md-1.update_dp
+
+
+
+	{
+
+
+
+		margin: 10px 0 0 58px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 768px) {
+
+
+
+ 
+
+
+
+	select#installment_plan {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+	input.btn.btn-danger.delete_selected {
+
+
+
+		margin-left: 15px;
+
+
+
+	}
+
+
+
+	/* input#upload_user_avatar_button {
+
+
+
+		margin-top: 10px;
+
+
+
+	} */
+
+
+
+	input#income_entry {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+	.header.col-sm-12 {
+
+
+
+		margin-left: -15px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 439px) 
+
+
+
+{
+
+
+
+	/* input#upload_image_button {
+
+
+
+		margin-top: 10px;
+
+
+
+	} */
+
+
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width : 601px) 
+
+
+
+{
+
+
+
+	a.nav-tab.payment_responsive {
+
+
+
+		margin-left: -20px;
+
+
+
+		/* margin-top: 10px; */
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 373px) 
+
+
+
+{
+
+
+
+	a.btn.btn-success.pdf_workout {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 404px) 
+
+
+
+{
+
+
+
+	a.nav-tab.add_members {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+	.add_members {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 364px) 
+
+
+
+{
+
+
+
+	a.tab.add_membersactive {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+	a.tab.add_membersactive {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 554px) {
+
+
+
+	a.nav-tab.add_membersnav-tab-active {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 454px) {
+
+
+
+	h3.color_white.margin {
+
+
+
+		font-size: inherit;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 520px) {
+
+
+
+	img.invoicefont1 {
+
+
+
+		margin-top:45px;
+
+
+
+	}
+
+
+
+	td.width_40{
+
+
+
+		padding-left:20px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 444px) {
+
+
+
+	a.nav-tab.responsive_aa {
+
+
+
+   	 	margin-top: 10px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 598px) {
+
+
+
+	a.nav-tab.workout_res {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+	a.nav-tab.workout_resnav-tab-active {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 411px) {
+
+
+
+	a.nav-tab.workout_res1 {
+
+
+
+		margin-top: 10px;
+
+
+
+	}
+
+
+
+	/* .removeworkout {
+
+
+
+		margin-top: -8px;
+
+
+
+		margin-right: -16px;
+
+
+
+	} */
+
+
+
+	/* .removenutrition {
+
+
+
+		margin-top: -38px;
+
+
+
+		margin-right: -13px;
+
+
+
+	} */
+
+
+
+}
+
+
+
+@media only screen and (max-width: 420px){
+
+
+
+	#main-wrapper .col-md-10 .mailbox-content tr td{
+
+
+
+	padding: 15px 5px !important;
+
+
+
+	}
+
+
+
+	/* #main-wrapper .col-md-10 .mailbox-content, #main-wrapper .col-md-10 {
+
+
+
+	overflow: overlay;
+
+
+
+	} */
+
+
+
+	td.font_12.demo {
+
+
+
+		/* padding-top: 32px; */
+
+
+
+		word-break: break-all;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 550px)
+
+
+
+{
+
+
+
+	#attendance_report_staff{
+
+
+
+		overflow-x:auto !important;
+
+
+
+	}
+
+
+
+	div#attendance_report{
+
+
+
+		overflow-x:auto!important;
+
+
+
+	}
+
+
+
+	div#chart_div_fees{
+
+
+
+		overflow-x:hidden!important;
+
+
+
+	}
+
+
+
+	div#chart_div_payment{
+
+
+
+		overflow-x:auto;
+
+
+
+	}
+
+
+
+	div#chart_div_sell{
+
+
+
+		overflow-x:auto;
+
+
+
+	}
+
+
+
+	div#chart_div_membership{
+
+
+
+		overflow-x:hidden;
+
+
+
+	}
+
+
+
+	div#wait_reort {
+
+
+
+		overflow: auto;
+
+
+
+	}
+
+
+
+	div#height_report{
+
+
+
+		overflow: auto;
+
+
+
+	}
+
+
+
+	div#chart_div1{
+
+
+
+		overflow: auto;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 676px) {
+
+
+
+	td.font_12 {
+
+
+
+		padding-top: 17px;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 960px) {
+
+
+
+	.overlay-content{
+
+
+
+		left: 22%;
+
+
+
+		width: 80% !important;
+
+
+
+		/* max-height: 80%; */
+
+
+
+		min-height: 26%; 
+
+
+
+     	max-height: 85% !important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 768px)
+
+
+
+{
+
+
+
+	#myModal_add_membership
+
+
+
+	{		
+
+
+
+		/* margin-top:42px; */
+
+
+
+		margin-top: 20%;
+
+
+
+	}
+
+
+
+	#myModal_add_staff_member
+
+
+
+	{		
+
+
+
+		/* margin-top:42px; */
+
+
+
+		margin-top: 20%;
+
+
+
+	}
+
+
+
+	#myModal_add_class_limit
+
+
+
+	{		
+
+
+
+		/* margin-top:42px; */
+
+
+
+		margin-top: 20%;
+
+
+
+	}
+
+
+
+	#myModal_delete_class_limit
+
+
+
+	{		
+
+
+
+		/* margin-top:42px; */
+
+
+
+		margin-top: 20%;
+
+
+
+	}
+
+
+
+	#myModal_add_group
+
+
+
+	{		
+
+
+
+		/* margin-top:42px; */
+
+
+
+		margin-top: 20%;
+
+
+
+	}
+
+
+
+	.member_calendar_popupup  .fc-popover.fc-more-popover
+
+
+
+	{
+
+
+
+		top:100px !important;
+
+
+
+	}
+
+
+
+	.gym-management-content .ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable
+
+
+
+	{
+
+
+
+		left:51 !important;
+
+
+
+		margin: auto;
+
+
+
+	}
+
+
+
+	/* .form-horizontal .radio-inline{
+
+
+
+		padding: 8px 30px 8px 0px;
+
+
+
+	} */
+
+
+
+	.marign_left_20_res
+
+
+
+	{
+
+
+
+		margin-left: 20px;
+
+
+
+	}
+
+
+
+	.marign_left_15_res
+
+
+
+	{
+
+
+
+		margin-left: 15px !important;
+
+
+
+	}
+
+
+
+} 
+
+
+
+@media (min-width: 319px) and (max-width: 480px)
+
+
+
+{
+
+
+
+	#group_form .btn-group.open .multiselect-container li div .form-control.multiselect-search
+
+
+
+	{
+
+
+
+		min-width: 64px !important;
+
+
+
+	}
+
+
+
+	.nutrition_details
+
+
+
+	{
+
+
+
+		padding-left: 0px !important;
+
+
+
+	}
+
+
+
+	.width_res_invoice
+
+
+
+	{
+
+
+
+		width:unset !important;
+
+
+
+	}
+
+
+
+	.panel-heading.nutartion_plan_res
+
+
+
+	{
+
+
+
+		padding: 11px !important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 1023px)
+
+
+
+{
+
+
+
+	.col-md-1.update_dp
+
+
+
+	{
+
+
+
+		margin: 15px 0 0 0px;
+
+
+
+		text-align: center;
+
+
+
+	}
+
+
+
+	.user-profile
+
+
+
+	{
+
+
+
+		margin-top: 100px !important; 
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 463px)
+
+
+
+{
+
+
+
+	.group_nameformError.parentFormgroup_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	a.nav-tab.payement_list_res.nav-tab-active
+
+
+
+	{
+
+
+
+		margin-left:-20px;
+
+
+
+	}
+
+
+
+	.first_nameformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.last_nameformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.emailformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.passwordformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.birth_dateformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.addressformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.city_nameformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.mobileformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.usernameformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.membership_nameformError.parentFormmembership_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.membership_categoryformError.parentFormmembership_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.membership_periodformError.parentFormmembership_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.membership_amountformError.parentFormmembership_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.role_typeformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.zip_codeformError.parentFormstaff_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.staff_idformError.parentFormgroup_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.form-validation-field-0formError.parentFormgroup_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.form-validation-field-1formError.parentFormgroup_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.form-validation-field-4formError.parentFormgroup_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.first_nameformError.parentFormmember_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.last_nameformError.parentFormmember_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.birth_dateformError.parentFormmember_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.formError
+
+
+
+	{
+
+
+
+		/* left:auto !important; */
+
+
+
+	}
+
+
+
+	#invoice_print img.invoicefont1.rtl_invoice_img{
+
+
+
+		display: none;
+
+
+
+	}
+
+
+
+	.main_div{
+
+
+
+		margin: 0px !important;
+
+
+
+	}
+
+
+
+	.sell_product_oflow_y{
+
+
+
+		overflow-y: auto;
+
+
+
+		width: 100%;
+
+
+
+		display: block;
+
+
+
+	}
+
+
+
+	.wdth_rsp_100{
+
+
+
+		width: 100% !important;
+
+
+
+	}
+
+
+
+	.activity_tbs_rsp li a{
+
+
+
+		/* display: inline-block !important;
+
+
+
+		 /* margin-top: 20px; */
+
+
+
+		/* float: left;
+
+
+
+		position: relative;
+
+
+
+		bottom: 0px;  */
+
+
+
+		line-height: 21px !important;
+
+
+
+	}
+
+
+
+	.sell_padding_0_res{
+
+
+
+		padding: 0px !important;
+
+
+
+	}
+
+
+
+	/* .modal {
+
+
+
+		background-color: #bbb7b74f;
+
+
+
+	} */
+
+
+
+}
+
+
+
+@media only screen and (max-width : 575px) 
+
+
+
+{
+
+
+
+	.work_out_datalist.dis_flex
+
+
+
+	{
+
+
+
+		display: block !important;
+
+
+
+	}
+
+
+
+	.work_out_datalist_header
+
+
+
+	{
+
+
+
+		display: flex !important;
+
+
+
+	}
+
+
+
+	
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 450px)
+
+
+
+{
+
+
+
+	.dashboard_width_100
+
+
+
+	{
+
+
+
+		width: 100%;
+
+
+
+		float: left;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width : 991px) 
+
+
+
+{	
+
+
+
+	.gym_left>.collapse
+
+
+
+	{
+
+
+
+		display: none !important;
+
+
+
+	}
+
+
+
+	.gym_left>.collapse.show
+
+
+
+	{
+
+
+
+		display: block !important;
+
+
+
+	}
+
+
+
+	.gym-management-content .page-inner {
+
+
+
+		margin-top: 0px !important;
+
+
+
+	 }
+
+
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 920px)
+
+
+
+{
+
+
+
+	.wdth_100_res
+
+
+
+	{
+
+
+
+		width: 100% !important;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 767px)
+
+
+
+{
+
+
+
+	.dis_block_res
+
+
+
+	{
+
+
+
+		display: block !important;
+
+
+
+	}
+
+
+
+	.table-responsive .dataTables_wrapper .dataTables_paginate {
+
+
+
+		margin-top: 0.5em;
+
+
+
+		margin-bottom: 0.5em;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 425px)
+
+
+
+{	
+
+
+
+	.fc .fc-daygrid-day-bottom
+
+
+
+	{
+
+
+
+		padding: 13px 5px 0px;
+
+
+
+	}
+
+
+
+}

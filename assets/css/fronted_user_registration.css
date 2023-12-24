@@ -1,0 +1,1668 @@
+.student_registraion_form .form-group,.student_registraion_form .form-group .form-control{float:left;width:100%}
+
+
+
+	.student_registraion_form .form-group .require-field{color:red;}
+
+
+
+	.student_registraion_form select.form-control,.student_registraion_form input[type="file"] 
+
+
+
+	{
+
+		border: none;
+
+		padding: 0.5278em;
+
+
+
+		/* margin-bottom: 5px; */
+
+
+
+    }
+
+
+
+	.student_registraion_form  .radio-inline 
+
+
+
+	{
+
+
+
+		float: left;
+
+
+
+		margin-bottom: 0px;
+
+
+
+		margin-top: 0px;
+
+
+
+		 margin-right: 15px;
+
+
+
+	}
+
+
+
+	.student_registraion_form  .radio-inline .tog {
+
+
+
+		margin-right: 5px;
+
+
+
+	}
+
+
+
+	.student_registraion_form .col-sm-2.control-label {
+
+
+
+	  line-height: 50px;
+
+
+
+	  text-align: right;
+
+
+
+	}
+
+
+
+	.student_registraion_form .form-group .col-sm-2 {width: 32.666667%;}
+
+
+
+	.student_registraion_form .form-group .col-sm-8 { width: 66.66666667%;}
+
+
+
+	.student_registraion_form .form-group .col-sm-7{  width: 51.33333333%;}
+
+
+
+	.student_registraion_form .form-group .col-sm-1{  width: 13.33333333%;}
+
+
+
+	.student_registraion_form .form-group .col-sm-8, .student_registraion_form .form-group .col-sm-2,.student_registraion_form .form-group .col-sm-7,.student_registraion_form .form-group .col-sm-1{      
+
+
+
+	padding-left: 15px;
+
+
+
+	 padding-right: 15px;
+
+
+
+	float:left;}
+
+
+
+	.student_registraion_form .form-group .col-sm-8, .student_registraion_form .form-group .col-sm-2,.student_registraion_form .form-group .col-sm-7{
+
+
+
+		position: relative;
+
+
+
+    min-height: 1px;   
+
+
+
+	}
+
+
+
+
+
+
+
+    div {
+
+
+
+        margin-bottom:2px;
+
+
+
+    }
+
+
+
+     
+
+
+
+    input{
+
+
+
+        margin-bottom:4px;
+
+
+
+    }
+
+
+
+	.student_registraion_form .col-sm-offset-2.col-sm-8 {
+
+
+
+     float: left;
+
+
+
+     margin-left: 35%;
+
+
+
+    margin-top: 15px;
+
+
+
+    }
+
+
+
+
+
+
+
+	.datepicker-days {
+
+
+
+	 width: 220px;
+
+
+
+		height: 220px;
+
+
+
+		font-size: x-small;
+
+
+
+	}
+
+
+
+
+
+
+
+	.table-condensed {
+
+
+
+	 width: 220px;
+
+
+
+		height: 220px;
+
+
+
+		font-size: x-small;
+
+
+
+	}
+
+
+
+	.datepicker-months {
+
+
+
+	 width: 220px;
+
+
+
+		height: 220px;
+
+
+
+		font-size: x-small;
+
+
+
+	}
+
+
+
+
+
+
+
+	.student_reg_error .error
+
+
+
+	{
+
+
+
+		color:red;
+
+
+
+	}
+
+
+
+	.student_reg_error
+
+
+
+	{
+
+
+
+		padding-top: 20px;
+
+
+
+	}
+
+
+
+	/* start Multiselect dropdown css*/
+
+
+
+	.student_registraion_form .btn .caret 
+
+
+
+	{
+
+
+
+		margin-left: 0;
+
+
+
+	}
+
+
+
+	.student_registraion_form .caret 
+
+
+
+	{
+
+
+
+		display: inline-block;
+
+
+
+		width: 0;
+
+
+
+		height: 0;
+
+
+
+		margin-left: 2px;
+
+
+
+		vertical-align: middle;
+
+
+
+		border-top: 4px dashed;
+
+
+
+		border-right: 4px solid transparent;
+
+
+
+		border-left: 4px solid transparent;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-toggle
+
+
+
+	{
+
+
+
+		background-color: #fff;
+
+
+
+		color: #333;
+
+
+
+		border: 1px solid #e5e5e5;
+
+
+
+		position: relative;
+
+
+
+		margin: 0px;
+
+
+
+		margin-top: 15px;
+
+
+
+	}	
+
+
+
+	.student_registraion_form .dropdown-toggle:active,.student_registraion_form .dropdown-toggle:focus,.student_registraion_form .dropdown-toggle:hover,.student_registraion_form .dropdown-toggle.open .btn-default.dropdown-toggle, .student_registraion_form .btn.dropdown-toggle.active
+
+
+
+	{
+
+
+
+		background-color: #f1f1f1;
+
+
+
+		border: 1px solid #e5e5e5;
+
+
+
+	}
+
+
+
+	.student_registraion_form .btn-group, .btn-group-vertical 
+
+
+
+	{
+
+
+
+		position: relative;
+
+
+
+		display: block;
+
+
+
+		vertical-align: middle;
+
+
+
+	}
+
+
+
+	.student_registraion_form .open>.dropdown-menu 
+
+
+
+	{
+
+
+
+		display: block;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-menu 
+
+
+
+	{
+
+
+
+		position: absolute!important;   
+
+
+
+		top: 100%;
+
+
+
+		z-index: 1000;
+
+
+
+		display: none;
+
+
+
+		float: left;
+
+
+
+		list-style: none;
+
+
+
+		text-shadow: none;
+
+
+
+		padding: 0!important;   
+
+
+
+		border: 1px solid #d8dee4;
+
+
+
+		border-radius: 0;
+
+
+
+		background-color: #fff;
+
+
+
+		box-shadow: 0 5px 5px -5px rgba(0,0,0,.1);
+
+
+
+		left: 0;
+
+
+
+		min-width: 160px;
+
+
+
+		font-size: 14px;
+
+
+
+		text-align: left;
+
+
+
+		background-clip: padding-box;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-menu li 
+
+
+
+	{
+
+
+
+		font-size: 13px;
+
+
+
+		border-bottom:0px!important;
+
+
+
+	}
+
+
+
+	.student_registraion_form .multiselect-container>li 
+
+
+
+	{
+
+
+
+		padding: 0;
+
+
+
+	}
+
+
+
+	.student_registraion_form .filter
+
+
+
+	{
+
+
+
+		float: left;
+
+
+
+		margin: -5px 0 0 10px;
+
+
+
+	}
+
+
+
+	.student_registraion_form .multiselect-container .input-group 
+
+
+
+	{
+
+
+
+		margin: 5px;
+
+
+
+	}
+
+
+
+	.student_registraion_form .input-group 
+
+
+
+	{
+
+		margin-top : 9px;
+
+		position: relative;
+
+
+
+		display: table;
+
+
+
+		border-collapse: separate;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-menu li a 
+
+
+
+	{
+
+
+
+		padding: 7px 10px;
+
+
+
+		font-size: 13px;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-menu>li>a 
+
+
+
+	{
+
+
+
+		display: block;
+
+
+
+		clear: both;
+
+
+
+		font-weight: 400;
+
+
+
+		line-height: 1.42857143;    
+
+
+
+		white-space: nowrap;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-menu li a 
+
+
+
+	{   
+
+
+
+		color: #5f5f5f !important;    
+
+
+
+	}	
+
+
+
+	.student_registraion_form .dropdown-menu li a 
+
+
+
+	{
+
+
+
+		padding: 7px 10px!important;    
+
+
+
+		font-size: 13px;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-menu>li>a 
+
+
+
+	{
+
+
+
+		display: block;
+
+
+
+		clear: both;
+
+
+
+		font-weight: 400;
+
+
+
+		line-height: 1.42857143;  
+
+
+
+		white-space: nowrap;
+
+
+
+		box-shadow: none!important;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-menu li a 
+
+
+
+	{   
+
+
+
+		color: #5f5f5f !important;    
+
+
+
+	}
+
+
+
+	.student_registraion_form a
+
+
+
+	{	  
+
+
+
+		text-decoration: none!important; 
+
+
+
+	}
+
+
+
+	.student_registraion_form .multiselect-container>li>a>label.radio,.student_registraion_form .multiselect-container>li>a>label.checkbox 
+
+
+
+	{
+
+
+
+		margin: 0;
+
+
+
+	}
+
+
+
+	.student_registraion_form .multiselect-container>li>a.multiselect-all label
+
+
+
+	{
+
+
+
+		font-weight: 700;
+
+
+
+	}
+
+
+
+	.student_registraion_form .multiselect-container>li>a>label
+
+
+
+	{    
+
+
+
+		height: 100%;
+
+
+
+		cursor: pointer;   
+
+
+
+		padding: 3px 20px 3px 40px;
+
+
+
+		 font-size: 16px;
+
+
+
+	}
+
+
+
+	.student_registraion_form .multiselect-container>li>a>label 
+
+
+
+	{
+
+
+
+		padding: 3px 17px 3px 10px!important;
+
+
+
+	}
+
+
+
+	.student_registraion_form .dropdown-toggle
+
+
+
+	{
+
+
+
+		display:block!important;
+
+
+
+	}
+
+
+
+	.width_90
+
+
+
+	{
+
+
+
+		width:90px !important;
+
+
+
+	}
+
+
+
+	.width_20_per
+
+
+
+	{
+
+
+
+		width:20% !important;
+
+
+
+		margin-right: 2%;
+
+
+
+	}
+
+
+
+	.width_80_per
+
+
+
+	{
+
+
+
+		width:80% !important;
+
+
+
+	}
+
+
+
+	.display_inline_flex
+
+
+
+	{
+
+
+
+		display: inline-flex;
+
+
+
+		width: 100%;
+
+
+
+	}
+
+
+
+button.multiselect.dropdown-toggle.btn.btn-default {
+
+
+
+    width: 100%;
+
+
+
+	margin-top: 3px;
+
+
+
+	height:30px;
+
+
+
+	
+
+
+
+}
+
+
+
+.registration_height_32px
+
+
+
+{
+
+
+
+	height: 32px;
+
+
+
+}
+
+
+
+
+
+
+
+button.multiselect.dropdown-toggle.btn.btn-default {
+
+
+
+    padding: 3px;
+
+
+
+}
+
+
+
+input.btn.btn-success.frontend_button_regsiter {
+
+
+
+    padding: 15px;
+
+
+
+}
+
+
+
+.student_registraion_form .save_btn_line_height_14px
+
+
+
+{
+
+
+
+	line-height: 14px;
+
+
+
+}
+
+
+
+.site .button:not(:hover):not(:active):not(.has-background), button:not(:hover):not(:active):not(.has-background), input[type=reset]:not(:hover):not(:active):not(.has-background), .wp-block-search .wp-block-search__button:not(:hover):not(:active):not(.has-background), .wp-block-button .wp-block-button__link:not(:hover):not(:active):not(.has-background), .wp-block-file a.wp-block-file__button:not(:hover):not(:active):not(.has-background)
+
+
+
+{
+
+
+
+	/* background-color: #ba170b  !important; */
+
+
+
+}
+
+option.select_class {
+
+    text-align: center;
+
+    padding: 5px;
+
+    background: none;
+
+}
+
+.dropdown-item.active, .dropdown-item:active{
+
+	background-color: white !important;
+
+}
+
+.multiselect-native-select .dropdown .btn {
+
+    border: 1px solid #ced4da !important;
+
+    background: #F2F5FA!important;
+
+    width: 100% !important;
+
+}
+
+button.frontend_div:hover {
+
+    background: none;
+
+}
+
+.
+
+.dropdown-item:focus, .dropdown-item:hover, .dropdown-item.active{
+
+	background-color: white !important;
+
+}
+
+
+
+.gym_registration_according .input_color button:not(:hover):not(:active):not(.has-background)
+
+{
+
+	/* background-color: #f2f5fa  !important; */
+
+}
+
+.site .button:not(:hover):not(:active):not(.has-text-color), button:not(:hover):not(:active):not(.has-text-color), input[type=submit]:not(:hover):not(:active):not(.has-text-color), input[type=reset]:not(:hover):not(:active):not(.has-text-color), .wp-block-search .wp-block-search__button:not(:hover):not(:active):not(.has-text-color), .wp-block-button .wp-block-button__link:not(:hover):not(:active):not(.has-text-color), .wp-block-file a.wp-block-file__button:not(:hover):not(:active):not(.has-text-color)
+
+
+
+{
+
+	
+
+
+
+	/* color: #fff !important; */
+
+
+
+}
+
+.gym_registration_according .input_color button:not(:hover):not(:active):not(.has-text-color)
+
+{
+
+	color: #818386 !important;
+
+}
+
+.is-light-theme #registration_form input[type=radio] ,input[type=checkbox]
+
+
+
+{
+
+
+
+  margin:0px;
+
+
+
+  width: 20px;
+
+
+
+  height: 20px;
+
+
+
+  margin-bottom: -2px;
+
+
+
+
+
+
+
+}
+
+
+
+input[type=radio]:checked:focus
+
+
+
+{
+
+
+
+	outline: 0px dotted var(--form--border-color) !important;
+
+
+
+}
+
+
+
+.card-body_1
+
+
+
+{
+
+
+
+	padding: 15px 15px 0 15px;
+
+
+
+}
+
+
+
+.input select
+
+
+
+{
+
+
+
+	/* line-height: 2.5 !important; */
+
+
+
+}
+
+
+
+.gym_registration_according
+
+
+
+{
+
+
+
+	float: left;
+
+
+
+	width: 100%;
+
+
+
+	margin-top: 20px;
+
+
+
+}
+
+
+
+.is-light-theme #registration_form input[type=radio]:after
+
+
+
+{
+
+
+
+  content: "";
+
+
+
+  display: block;
+
+
+
+  left: -1px;
+
+
+
+  top: -1px;
+
+
+
+  position: absolute;
+
+
+
+  width: 14px;
+
+
+
+  height: 14px;
+
+
+
+  border-radius: 50%;
+
+
+
+  background: #0075ff;
+
+
+
+}
+
+
+
+.is-light-theme #registration_form input
+
+
+
+{
+
+
+
+  /* border: 1px solid #ccc; */
+
+
+
+  overflow: revert;
+
+
+
+  margin-bottom: 0px;
+
+
+
+}
+
+
+
+.is-light-theme #registration_form label
+
+
+
+{
+
+
+
+  font-size: 14px;
+
+
+
+}
+
+
+
+.ml_5
+
+
+
+{
+
+
+
+	margin-left:5px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+	/* end Multiselect dropdown css */
+
+
+
+@media (min-width: 319px) and (max-width: 463px)
+
+
+
+{
+
+
+
+	.first_nameformError.parentFormregistration_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.last_nameformError.parentFormregistration_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.emailformError.parentFormregistration_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.passwordformError.parentFormregistration_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.membership_idformError.parentFormregistration_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.begin_dateformError.parentFormregistration_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	.end_dateformError.parentFormregistration_form.formError
+
+
+
+	{
+
+
+
+		left:auto !important;
+
+
+
+	}
+
+
+
+	
+
+
+
+}	
+
+
+
+@media (min-width: 319px) and (max-width: 463px)
+
+
+
+{
+
+
+
+	.student_registraion_form .form-group .col-sm-8, .student_registraion_form .form-group .col-sm-2, .student_registraion_form .form-group .col-sm-7, .student_registraion_form .form-group .col-sm-1
+
+
+
+	{
+
+
+
+		/* padding-left:0px !important;
+
+
+
+		padding-right: 12px !important; */
+
+
+
+		width: 100% !important;
+
+
+
+		float: left !important;
+
+
+
+		text-align: left;
+
+
+
+	}
+
+
+
+	.date_class {
+
+
+
+		margin-left: 0px;
+
+
+
+	}
+
+
+
+	#ui-datepicker-div{
+
+
+
+		max-width: 100%;
+
+
+
+		left: 0px !important;
+
+
+
+	}
+
+
+
+	input#user_login
+
+
+
+	{
+
+
+
+		max-width:unset;
+
+
+
+	}
+
+
+
+	input#user_pass
+
+
+
+	{
+
+
+
+		max-width:unset;
+
+
+
+	}
+
+
+
+	
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 662px)
+
+
+
+{
+
+
+
+	.student_registraion_form .form-group .mobile_width_resp {
+
+
+
+    width: 66.66666667%;
+
+
+
+	}
+
+
+
+}
+
+
+
+@media (min-width: 319px) and (max-width: 480px){
+
+
+
+	.cstm_line_height_reg_frm_res{
+
+
+
+		line-height: 25px !important;
+
+
+
+	}
+
+
+
+	#registration_form button.multiselect.dropdown-toggle.btn.btn-default {
+
+
+
+		height: 44px;
+
+
+
+		margin-bottom: 15px;
+
+
+
+	}
+
+
+
+}
+
+
+
+.dropdown-menu.show {
+
+
+
+    display: block;
+
+
+
+}
+
+
+
+@media only screen and (max-width : 768px) {
+
+
+
+	.student_registraion_form .col-sm-offset-2.col-sm-8 {
+
+
+
+		float: left;
+
+
+
+		margin-left: 4% !important;
+
+
+
+		margin-top: 15px;
+
+
+
+	}
+
+
+
+}
+

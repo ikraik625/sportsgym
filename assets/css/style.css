@@ -1,0 +1,6494 @@
+.margin_top_10px
+
+{
+
+	margin-top: 10px !important;
+
+}
+
+.membership_Expired{
+
+width: 100%;
+
+height: 100px;
+
+text-align: center;
+
+background-color: #ba170b;
+
+color: white;
+
+font-size: 41px;
+
+}
+
+.membership_label{
+
+    font-size: 32px;
+
+    padding-top: 20px;
+
+}
+
+.row_bottom {
+
+    padding-bottom: 10px;
+
+    padding-top: 10px;
+
+}
+
+/* invoice css*/
+
+.invoice_body
+
+{
+
+	height:500px;
+
+}
+
+.invoicefont1
+
+{
+
+	vertical-align:top;
+
+	background-repeat:no-repeat;
+
+}
+
+.main_div
+
+{
+
+	margin:-210px 0px 0px 0px;
+
+}
+
+.system_logo
+
+{
+
+	max-height:180px;	
+
+	width: 100px;	
+
+}
+
+/* .billed_to
+
+{ */
+
+	/* vertical-align:top;  */
+
+	/* width: 8%; */
+
+/* } */
+
+.billed_to1
+
+{
+
+	vertical-align:top; 
+
+	width: 4%;
+
+}
+
+.billed_to_print
+
+{
+
+	vertical-align:top; 
+
+	width: 95px;
+
+}
+
+.billed_to_lable
+
+{
+
+	font-weight: bold; 
+
+	font-size: 15px;
+
+	text-align:left;
+
+}
+
+.display_name
+
+{
+
+	font-weight: bold;
+
+	margin-top: -2px;
+
+}
+
+.width_100
+
+{
+
+	width:100%;
+
+}
+
+.width_100_print
+
+{
+
+	width:500px;
+
+}
+
+.width_90
+
+{
+
+	width:100%;
+
+}
+
+.width_1
+
+{
+
+	width:1%;
+
+}
+
+.width_1_print
+
+{
+
+	width:100px;
+
+}
+
+.width_3
+
+{
+
+	width:3%;
+
+}
+
+.width_3_print
+
+{
+
+	width:18px;
+
+}
+
+.only_width_20
+
+{
+
+	width:20%;
+
+}
+
+.only_width_20_print
+
+{
+
+	width:250px;
+
+}
+
+.width_24
+
+{
+
+	width:24%;
+
+}
+
+.width_50
+
+{
+
+	width:50%;
+
+	float: left;
+
+}
+
+.width_50_print
+
+{
+
+	width:300px;
+
+	float: left;
+
+}
+
+.width_40_right
+
+{
+
+	width:40%;
+
+	float: right;
+
+}
+
+.width_40
+
+{
+
+	width:40%;
+
+}
+
+.width_40_print
+
+{
+
+	width:250px;	
+
+}
+
+.width_30
+
+{
+
+	width:30%;
+
+}
+
+.width_20
+
+{
+
+	width:20%;
+
+	padding-right:30px;
+
+}
+
+.width_30_print
+
+{
+
+	width:220px;
+
+}
+
+.width_20_print
+
+{
+
+	width:150px;
+
+	padding-right:30px;
+
+}
+
+.width_20_reciept
+
+{
+
+	width:20%;	
+
+}
+
+.invoice_lable
+
+{
+
+	background-color:#ba170b;
+
+	color:white;
+
+	padding:10px;
+
+}
+
+.invoice_blank_lable
+
+{
+
+	padding:10px;
+
+}
+
+.entry_lable
+
+{
+
+	font-weight: bold; 
+
+	font-size: 15px;
+
+}
+
+.width_93
+
+{
+
+	width:100%;
+
+	margin-left: 20px;
+
+	border-collapse:collapse;
+
+}
+
+.gst_details
+
+{
+
+	width:100%;
+
+	border-collapse:collapse;
+
+	margin-bottom: 15px;
+
+}
+
+.color_white
+
+{
+
+	color:white!important;
+
+}
+
+.align_center
+
+{
+
+	text-align:center;
+
+}
+
+.align_left
+
+{
+
+	text-align:left;
+
+}
+.workout_table_print
+{
+  padding: 10px;
+  border: 1px solid #E1E3E5;
+  border-top: 0px solid #E1E3E5 !important;
+}
+.align_right
+
+{
+
+	text-align:right;
+
+}
+
+.entry_list
+
+{
+
+	font-weight: bold;
+
+}
+
+.width_54
+
+{
+
+	width:52%;
+
+	float: right;
+
+	margin-bottom: 15px;
+
+}
+
+.width_54_print
+
+{
+
+	float: right;
+
+	width:375px;
+
+}
+
+.width_46_print
+
+{
+
+	float: right;
+
+	width:373px;
+
+}
+
+
+
+.width_70
+
+{
+
+	width:50%;	
+
+}
+
+.width_56
+
+{
+
+	width: 57%;
+
+	padding: 5px;
+
+}
+
+.padding_right_30
+
+{
+
+	padding-right: 30px;
+
+}
+.padding_right_30
+
+{
+
+	padding-right: 30px;
+
+}
+
+.grand_total_lable
+
+{
+
+	float:right; 
+
+	background-color:#ba170b; 
+
+}
+
+.grand_total_amount
+
+{
+
+	background-color:#ba170b; 
+
+}
+
+.padding_top_80px{
+	padding-top : 80px !important;
+}
+
+.width_46
+
+{
+
+	width:48%;
+
+	float: left;
+
+}
+
+.width_31
+
+{
+
+	width:20%;
+
+}
+
+.width_311
+
+{
+
+	width:31%;
+
+}
+
+.font_12
+
+{
+
+	font-size:12px;
+
+}
+
+.payment_method_lable
+
+{
+
+	font-weight: bold; 
+
+	font-size: 15px;	
+
+}
+
+.modal-body #invoice_print 
+
+{
+
+    max-height: 450px !important;
+
+    overflow: scroll;
+
+    padding-right: 5px;
+
+}
+
+.modal-body #invoice_print1 
+
+{
+
+    max-height: 450px !important;
+
+    padding-right: 5px;
+
+}
+
+.entry_heading_print
+
+{
+
+	background-color:#ff3333;
+
+}
+
+ .invoice_color 
+
+{
+
+	background-color:#ff3333;
+
+	color:white!important;	
+
+		padding:10px;
+
+		margin-top: 20px;
+
+		margin-bottom: 10px;		
+
+}
+
+.pading_class_print
+
+{
+
+	padding-left: 10px!important;
+
+}
+
+@media print 
+
+{
+
+	
+  .nutrition_day {
+    width: 15%;
+  }
+	.display_name
+
+	{
+
+		margin-top:-3px!important;
+
+	}
+
+	.billed_to1
+
+	{
+
+		vertical-align:top; 
+
+		width: 12%;
+
+	}
+
+	.margin_top_print
+
+	{
+
+		margin-top: 20px!important;
+
+	}
+
+    .invoice_color 
+
+	{
+
+		background-color:#ff3333;
+
+		-webkit-print-color-adjust: exact; 
+
+		color:white!important;	
+
+		padding:10px;
+
+		margin-top: 20px;
+
+		margin-bottom: 10px;		
+
+	}
+
+	.grand_total_lable1 
+
+	{
+
+		background-color:#ff3333;
+
+		-webkit-print-color-adjust: exact; 
+
+		color:white!important;	
+
+		float:right; 		
+
+	}
+
+	.grand_total_amount1 
+
+	{
+
+		background-color:#ff3333;
+
+		-webkit-print-color-adjust: exact; 
+
+		color:white!important;				
+
+	}
+
+	.entry_heading_print
+
+	{
+
+		background-color:#ff3333;
+
+		-webkit-print-color-adjust: exact; 
+
+	}
+
+	.payment_receipt
+
+	{
+
+		background-color:#ff3333;
+
+		-webkit-print-color-adjust: exact; 
+
+		color:white!important;
+
+	}
+
+	.color
+
+	{
+
+		background-color:#ff3333;
+
+		-webkit-print-color-adjust: exact; 
+
+		color:white!important;
+
+	}
+
+}
+
+.margin
+
+{
+
+	margin-bottom: 5px;
+
+    margin-top: 5px;
+
+}
+
+.invoice_date_status
+
+{
+
+	margin-top: 10px;
+
+	margin-bottom: 10px;
+
+}
+
+.total_paid_amount
+
+{
+
+	margin-top:20px;
+
+}
+
+.margin_total_paid_amount
+
+{
+
+	margin-top:10px;
+
+}
+
+/*End invoice css*/
+
+.gym-management-content .container-fluid{background: #364150}
+
+
+
+
+
+.toplevel_page_hospital:hover .wp-menu-image.dashicons-before img {
+
+  display: none;
+
+}
+
+.toplevel_page_hospital:hover .wp-menu-image.dashicons-before {
+
+  min-width: 23px !important;
+
+}
+
+#wpbody-content .updated.below-h2 {
+
+  margin-top: 20px;
+
+}
+
+.media-modal a:hover {text-decoration: none;}
+
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_gmgt_system {
+
+    background: url("../images/gym-3.png") no-repeat scroll 8px 9px #0073AA !important;
+
+}
+
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_gmgt_system img {
+
+    display: none;
+
+}
+
+
+
+.info-box-title {
+
+  text-transform: capitalize;
+
+}
+
+
+
+.container-fluid.mainpage {
+
+  padding: 0;
+
+}
+
+/* .page-inner {
+
+  margin-left: -20px;
+
+} */
+
+.img-circle.head_logo {
+
+  margin-right: 5px;
+
+}
+
+.nav-tab-active, .nav-tab-active:hover,a.nav-tab:hover,a.nav-tab:focus 
+
+{
+
+  background: none repeat scroll 0 0 #fff;  
+
+  color: #000;
+
+  text-decoration: none;
+
+  border-bottom-color: #fff;
+
+}
+
+/*comment for new version text issue in drop downn text */
+
+/*  .wp-admin select {
+
+    height: 32px;
+
+}  */
+
+updated.below-h2{text-transform: capitalize;}
+
+.student_name,.result_total,.result_point {
+
+  text-align: center; 
+
+}
+
+.student_name {
+
+ font-size: 20px;
+
+}
+
+.panel-body button {
+
+  margin-right: 5px;
+
+}
+
+.school_name {
+
+  background: none repeat scroll 0 0 #34425A;
+
+  color: #C6C9CD;
+
+  padding: 5px;
+
+}
+
+/* .gym_left {
+
+  background: none repeat scroll 0 0 #364150;
+
+  min-height: 700px;
+
+} */
+
+.right_side {
+
+  margin-top: 10px;
+
+}
+
+.nopadding {  
+
+  
+
+   padding-left:0 !important;
+
+   padding-right:0 !important;
+
+}
+
+.gym_left .nav .title{color:#fff;}
+
+.gym_left ul a:hover,.gym_left ul li.active > a,.gym_left  li > a:focus {background: #2C3542 !important;}
+
+.gym_left ul a {border-top: 1px solid #3d4957;
+
+    color: #b4bcc8;}
+
+    
+
+
+
+ .form-control.file {
+
+  border: medium none;
+
+  border: 1px solid #dce1e4 !important;
+
+	box-shadow: none!important;
+
+	font-size: 13px;
+
+	padding: 6px 6px!important;
+
+}   
+
+.navbar a {
+
+  color: #5f5f5f !important;
+
+}
+
+.dropdown-menu li a {
+
+  padding: 7px 10px;
+
+  color: #5f5f5f !important;
+
+  font-size: 13px;
+
+}
+
+.navbar .nav li > a:hover,.navbar .nav li > a:focus {
+
+  background-color: inherit;
+
+}
+
+.navbar ul li ul a:hover{background-color: #F3F3F3; } 
+
+.navbar  a:hover{
+
+  text-decoration: none;
+
+}
+
+
+
+.account .personal-info {
+
+    margin-top: 15px;
+
+}
+
+.dashboard-stat {
+
+  height: 100px;
+
+  padding: 10px 5px;
+
+}
+
+.dashboard .block-orange {
+
+  background: #F59575;
+
+}
+
+.dashboard .icon {
+
+  float: left;
+
+  font-size: 54px;
+
+  margin-right: 1%;
+
+  width: 45%;
+
+}
+
+.dashboard .number {
+
+  font-size: 30px;
+
+}
+
+.dashboard .left_block {
+
+  float: left;
+
+ /*  width: 75%; */
+
+}
+
+.form-horizontal h5 {
+
+    color: red;
+
+}
+
+.blue.btn {
+
+    background-color: #3598dc;
+
+    color: #ffffff;
+
+	border-radius:0px;
+
+}
+
+.checkbox_field  {
+
+    width: 10px !important;
+
+}
+
+.attendence_list th, .attendence_list td{
+
+	padding:10px !important;
+
+}
+
+.panel-body p .img-circle {
+
+  margin-right: 10px;
+
+}
+
+.select_Staus {
+
+   
+
+    padding: 25px 0;
+
+}
+
+.toshow { 
+
+    display:none; 
+
+    position: absolute; 
+
+    background: #f00; 
+
+    width: 200px; 
+
+	
+
+}
+
+button:hover div.toshow { 
+
+    display:block; 
+
+}
+
+.right_part {
+
+    float: right;
+
+    margin-top: 65px;
+
+    width: 30%;
+
+}
+
+.calender_part{
+
+    width: 70%;
+
+}
+
+.seperate_part {
+
+    margin: 5px;
+
+  
+
+}
+
+.right_side {
+
+    margin-top: 0;
+
+	padding:20px;
+
+	min-height: 650px;
+
+}
+
+.right_side.account {
+
+    padding: 0;
+
+	
+
+}
+
+.profile-cover{
+
+    background: url("../images/school_life.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+
+}
+
+.file_upload{
+
+border:none;
+
+}
+
+
+
+.table-responsive th {
+
+  text-transform: capitalize;
+
+  height: 1px;
+
+  font: normal;
+
+}
+
+.require-field{
+
+color:red;
+
+}
+
+
+
+.info-box .info-box-stats {
+
+  margin-top: 0px !important;
+
+}
+
+/* .panel-body.patient {
+
+background: rgba(0, 0, 0, 0) url("../images/Patient.png") no-repeat scroll right center;
+
+}
+
+.panel-body.doctor{
+
+	
+
+	 background:url("../images/Doctor.png") no-repeat scroll right center;
+
+	
+
+}
+
+.panel-body.nurse{
+
+	
+
+ 	background:url("../images/Nurse.png") no-repeat scroll right center;
+
+	
+
+	
+
+}
+
+.panel-body.accountant{
+
+	
+
+ background:url("../images/Accountant.png") no-repeat scroll 55% 0;
+
+
+
+}
+
+.panel-body.receptionist {
+
+    background: rgba(0, 0, 0, 0) url("../images/Receptionist.png") no-repeat scroll right bottom / 100% auto;
+
+}
+
+.panel-body.pharmacist{
+
+	
+
+	 background:url("../images/Pharmacist.png");
+
+ background-repeat: no-repeat;
+
+    background-position: right center;
+
+  
+
+    background-width: 100% auto; 
+
+    
+
+}
+
+.panel-body.laboratorist{
+
+	
+
+	 background:url("../images/Laboratorist.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: 55% 0;
+
+  
+
+    background-width: 100% auto;
+
+} */
+
+
+
+.info-box .info-box-icon i {
+
+    float: right;
+
+    font-size: 70px !important;
+
+}
+
+
+
+.button-possition  input ,button
+
+{
+
+    margin-top: 23px;
+
+}
+
+ .panel-body h2 {
+
+    margin-bottom: 10px !important;
+
+    margin-top: 20px;
+
+     font-family: "Open Sans",sans-serif;
+
+    /* font-family: open sans;*/
+
+}
+
+
+
+#add-another_item{margin-left: 17%;}
+
+#revove_item{margin-left: 1%;}
+
+.marginbottom{ 
+
+	float: left;
+
+    margin-bottom: 10px;
+
+    width: 100%;}
+
+.print-button {padding-top:10px;
+
+margin-bottom: 10px;
+
+}
+
+table.dataTable thead th, table.dataTable thead td{padding:10px 10px;}
+
+/**  Fronted CSS*/
+
+/**   Menu icone***/
+
+
+
+.icone {
+
+  float: left;
+
+  /* height: 20px !important; */
+
+  /* line-height: 0px; */
+
+  margin-right: 5px;
+
+  overflow: hidden;
+
+  width: 25px !important;
+
+  text-align: center;
+
+}
+
+.gym-management-content .container-fluid.mainpage 
+
+{
+
+  position: absolute;
+
+  width: 100%;
+
+    z-index: 5;
+
+}
+
+.gym-management-content .col-sm-2.nopadding.gym_left { 
+
+   height: 100%;
+
+   margin-top: 70px;
+
+   float:left;
+
+}
+
+.gym-management-content .page-inner {
+
+   margin-top: 3%;
+
+}
+
+ .info-box .panel-body img{
+
+ 
+
+transition: all 0.3s ease 0s;
+
+}
+
+.page-inner .col-lg-2 a .info-box:hover .panel-body img{
+
+    transform: scale(1.2);
+
+} 
+
+
+
+/* rinkal changes*/
+
+.info-box .panel-body {
+
+  padding: 0 !important;
+
+}
+
+.info-box .patient .info-box-stats p {
+
+  color: #F9FDFB;
+
+  font-size: 34px; 
+
+  float:left;
+
+  
+
+}
+
+.info-box .patient .info-box-stats span.info-box-title {
+
+  color: #F9FDFB; 
+
+  
+
+}
+
+.info-box .doctor .info-box-stats p {
+
+  color: #12AFCB;
+
+  font-size: 34px; 
+
+}
+
+.info-box .doctor .info-box-stats span.info-box-title {
+
+  color: #12AFCB; 
+
+}
+
+.info-box .nurse .info-box-stats p {
+
+  color: #6A5FAC;
+
+  font-size: 34px; 
+
+}
+
+.info-box .nurse .info-box-stats span.info-box-title {
+
+  color: #6A5FAC; 
+
+}
+
+.info-box .accountant .info-box-stats p {
+
+  color: #F25656;
+
+  font-size: 34px; 
+
+}
+
+.info-box .accountant .info-box-stats span.info-box-title {
+
+  color: #F25656; 
+
+}
+
+.info-box .receptionist .info-box-stats p {
+
+  color: #4E5E6A;
+
+  font-size: 34px; 
+
+}
+
+.info-box .receptionist .info-box-stats span.info-box-title {
+
+  color: #4E5E6A; 
+
+  margin-left:20px !important;
+
+}
+
+.info-box .pharmacist .info-box-stats p {
+
+  color: #3B5998;
+
+  font-size: 34px; 
+
+}
+
+.info-box .pharmacist .info-box-stats span.info-box-title {
+
+  color: #3B5998; 
+
+}
+
+.info-box .laboratorist .info-box-stats p {
+
+  color: #380000;
+
+  font-size: 34px; 
+
+}
+
+.info-box .laboratorist .info-box-stats span.info-box-title {
+
+	
+
+  color: #380000; 
+
+}
+
+
+
+.info-box .invoice .info-box-stats p {
+
+  color: #660033;
+
+  font-size: 34px; 
+
+}
+
+.info-box .invoice .info-box-stats span.info-box-title {
+
+  color: #660033;
+
+}
+
+
+
+/* 
+
+.info-box .invoice {
+
+  background: rgba(0, 0, 0, 0) url("../images/invoice.png") no-repeat scroll right center;
+
+}
+
+.info-box .medicine   {
+
+
+
+  background:url("../images/medicine.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: 55% 0;
+
+}
+
+.info-box .operation_report  {
+
+  
+
+   background:url("../images/report.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .setting  {
+
+ 
+
+  background:url("../images/setting-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .birthreport {
+
+    background:url("../images/birth-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .deathreport  {
+
+   background:url("../images/death-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .treatment  {
+
+ 
+
+  background:url("../images/tretment-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .prescription  {
+
+ 
+
+  background:url("../images/preseription-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .assignbed  {
+
+ 
+
+  background:url("../images/assign-bed-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right 0;
+
+}
+
+.info-box .diagnosis  {
+
+ 
+
+  background:url("../images/diagnosis-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .bloodbank  {
+
+ 
+
+  background:url("../images/blood-bank-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .appointment  {
+
+ 
+
+    background:url("../images/appointment-image.png") no-repeat scroll 55% 0;
+
+}
+
+.info-box .operation-list  {
+
+ 
+
+  background:url("../images/operation-report.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: right center;
+
+}
+
+.info-box .eventnotice  {
+
+ 
+
+  background:url("../images/notice-event-image.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: 55% 0;
+
+}
+
+.info-box .message  {
+
+ 
+
+  
+
+  background:url("../images/message.png");
+
+ background-repeat: no-repeat; 
+
+    background-position: 92% 0;
+
+} */
+
+.info-box .medicine .info-box-stats p {
+
+  color: #CC0066;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .medicine .info-box-stats span.info-box-title {
+
+  color: #CC0066;
+
+}
+
+
+
+.info-box .operation_report .info-box-stats p {
+
+  color: #330033;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .operation_report .info-box-stats span.info-box-title {
+
+  color: #330033;
+
+}
+
+
+
+.info-box .birthreport .info-box-stats p {
+
+  color: #666633;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .birthreport .info-box-stats span.info-box-title {
+
+  color: #666633;
+
+}
+
+
+
+.info-box .deathreport .info-box-stats p {
+
+  color: #CC9900;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .deathreport .info-box-stats span.info-box-title {
+
+  color: #CC9900;
+
+}
+
+.info-box .setting .info-box-stats p {
+
+  color: #999933;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .setting .info-box-stats span.info-box-title {
+
+  color: #999933;
+
+}
+
+.info-box .treatment .info-box-stats p {
+
+  color: #003333;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .treatment .info-box-stats span.info-box-title {
+
+  color: #003333;
+
+}
+
+.info-box .prescription .info-box-stats p {
+
+  color: #0099FF;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .prescription .info-box-stats span.info-box-title {
+
+  color: #0099FF;
+
+}
+
+.info-box .assignbed .info-box-stats p {
+
+  color: #996600;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .assignbed .info-box-stats span.info-box-title {
+
+  color: #996600;
+
+}
+
+.info-box .diagnosis .info-box-stats p {
+
+  color: #330033;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .diagnosis .info-box-stats span.info-box-title {
+
+  color: #330033;
+
+}
+
+.info-box .bloodbank .info-box-stats p {
+
+  color: #990000;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .bloodbank .info-box-stats span.info-box-title {
+
+  color: #990000;
+
+}
+
+.info-box .appointment .info-box-stats p {
+
+  color: #FF9966;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .appointment .info-box-stats span.info-box-title {
+
+  color: #FF9966;
+
+}
+
+.info-box .eventnotice .info-box-stats p {
+
+  color: #009933;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .eventnotice .info-box-stats span.info-box-title {
+
+  color: #009933;
+
+}
+
+
+
+.info-box .message .info-box-stats p {
+
+  color: #0066FF;
+
+  font-size: 34px; 
+
+}
+
+
+
+.info-box .message .info-box-stats span.info-box-title {
+
+  color: #0066FF;
+
+}
+
+
+
+
+
+
+
+.info-box .operation-list   .info-box-stats span.info-box-title {
+
+  color: #003333;
+
+}
+
+.info-box .operation-list .info-box-stats p {
+
+  color: #003333;
+
+  font-size: 34px; 
+
+}
+
+
+
+.nav-tab,.nav-tabs a {
+
+    background: none repeat scroll 0 0 #f1f4f9;
+
+}
+
+.nav-tab.nav-tab-active {
+
+    background: none repeat scroll 0 0 #fff;
+
+}
+
+.mainpage .navbar-right {
+
+ 
+
+  margin-right: 0px;
+
+}
+
+.mainpage .navbar-right .dropdown{float:right;}
+
+table.fontend-border td,
+
+table.fontend-border th{
+
+	padding:0px !important;
+
+}
+
+
+
+ul.panel_tabs a {
+
+  padding: 5px;
+
+}
+
+ul.panel_tabs a:focus,ul.panel_tabs a:hover {
+
+  background: #fff !important;
+
+ 
+
+}
+
+ul.panel_tabs a {
+
+  /* color: red !important; */
+
+  font-size: 15px;
+
+  font-weight: 700;
+
+}
+
+
+
+/*********** Hospital CSS ********************/
+
+.table-responsive {
+
+  padding-top : 10px;
+
+}
+
+table a.btn {
+
+  margin-bottom: 5px;
+
+}
+
+blockquote.diagnosis-report {
+
+    font-size: 12.5px;
+
+}
+
+.calendar-event > p {
+
+    float: left;
+
+    width: 100%;
+
+}
+
+.profile_data hr {
+
+    margin-bottom: 0;
+
+}
+
+.panel-body.prescription_popprint_content {
+
+  margin: 25px auto;
+
+  width: 82%;
+
+}
+
+.overlay-content .prescription_pop_content{
+
+  height: 400px;
+
+  overflow: scroll;
+
+}
+
+.hmsg_message_none {
+
+    display: none;
+
+}
+
+.hmsg_message_block {
+
+    display: block;
+
+}
+
+
+
+/** View Member***/
+
+.report_title {
+
+  padding-left: 10px;
+
+  padding-right: 10px;
+
+}
+
+
+
+.right_side .table th, .right_side .table td,.member_right .table th,.member_right .table td {
+
+  color: #66707e;
+
+  font-weight: normal;
+
+  padding: 10px;
+
+}
+
+.col-md-4.member_right .table th,.col-md-4.member_right .table td{ padding: 10px !important;}
+
+.col-md-8.membr_left,.col-md-4.member_right {
+
+  border: 1px solid #dedede;
+
+  padding: 5px;
+
+  min-height:375px;
+
+}
+
+.right_side .table i,.member_right .table i {
+
+  padding-right: 10px;
+
+}
+
+.membr_left .col-md-6.right_side {
+
+  padding: 0;
+
+  width: 55%;
+
+}
+
+.member_right .table {
+
+  float: left;
+
+  margin-left: 10px;
+
+  width: 96%;
+
+}
+
+.title_ship {
+
+  color: #66707e;
+
+  float: left;
+
+  font-size: 16px;
+
+  font-weight: bold;
+
+  margin-bottom: 18px;
+
+  width: 100%;
+
+}
+
+.cutomcircle {
+
+  border: 2px solid #66707e;
+
+  border-radius: 50%;
+
+}
+
+.col-md-8.membr_left {
+
+  padding: 15px;
+
+}
+
+.col-md-6.left_side {
+
+    padding-left: 0;
+
+    padding-right: 0;
+
+    width: 45%;
+
+}
+
+.txt_color {
+
+  color: #ed5153;
+
+  float: left;
+
+  font-weight: bold;
+
+  width: 150px;
+
+}
+
+.fa-stack.cutomcircle {
+
+  float: left;
+
+  font-size: 18px;
+
+}
+
+.shiptitle {
+
+  float: left;
+
+  font-size: 24px;
+
+  line-height: 32px;
+
+  padding-left: 10px;
+
+}
+
+.report_title {
+
+  float: left;
+
+  font-size: 20px;
+
+  margin-bottom: 10px;
+
+  padding-top: 10px;
+
+  width: 100%;
+
+}
+
+
+
+.col-md-6.border > div {
+
+  float: left;
+
+  width: 100%;
+
+}
+
+.col-md-4.member_right {
+
+  margin-left: 1.5%;
+
+  width: 31.5%;
+
+}
+
+.btn.right {
+
+  float: right;
+
+}
+
+.col-md-6.borderleft {
+
+ 
+
+  margin-left: 1%;
+
+  width: 48%;
+
+
+
+}
+
+.col-md-6.border {
+
+  border: 1px solid #dedede;
+
+ 
+
+
+
+  margin-bottom: 10px;
+
+  padding: 5px;
+
+}
+
+#s2id_member_list,#s2id_group_id {
+
+  width: 100% ;
+
+}
+
+
+
+.inbox-widget .inbox-item .inbox-item-author {
+
+  line-height: 48px;
+
+  font-size: 16px !important;
+
+  color: #333333 !important;
+
+  font-weight: 400 !important;
+
+}
+
+.slimScrollDiv {
+
+  overflow: auto;
+
+}
+
+.checkbox.child {
+
+ 
+
+  float: left;
+
+  width: 100%;
+
+  padding-top: 0px !important;
+
+}
+
+.activity_list .activity_title{float:left;width:100%;margin-bottom: 0px!important;
+
+}
+
+.col-md-8.activity_list {
+
+  margin-bottom: 10px;  
+
+}
+
+
+
+#display_rout_list {
+
+  float: left;
+
+  width: 100%;
+
+}
+
+.removeworkout,.removethis {
+
+  cursor: pointer;
+
+}
+
+.clear {
+
+    clear: both;
+
+}
+
+.activity_list li {
+
+   text-align: center;
+
+    float: left;
+
+    width: 100%;
+
+}
+
+.work_out_datalist {
+
+  float: left;
+
+  margin-bottom: 10px;
+
+  padding: 20px;
+
+  width: 100%;
+
+}
+
+
+
+.work_out_datalist .day_name {
+
+
+
+  font-weight: bold;
+
+}
+
+.font_weight_700
+
+{
+
+	font-weight:700 !important;
+
+}
+
+@media screen, print{
+
+.work_out_datalist_header .col-md-8 span{
+
+	
+
+}
+
+.work_out_datalist .col-md-8 span{
+
+	padding: 10px;
+
+}
+
+.work_out_datalist {
+
+  float: left;
+
+  margin-bottom: 10px;
+
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+
+  width: 100%;
+
+}
+
+.work_out_datalist_header {
+
+  border-bottom: 1px solid #ddd;
+
+  float: left;
+
+  font-weight: bold;
+
+  /* margin-bottom: 10px; */
+
+  padding: 20px;
+
+  width: 100%;
+
+}
+
+.work_out_datalist .day_name {
+
+
+
+  font-weight: bold;
+
+}
+
+
+.activity_print{
+
+	padding: 10px 27px 0px 0px;
+
+	}	
+
+.print_title{
+
+	margin-top:50px;
+
+	}
+.title .workout_print_title
+{
+  margin-top: 0px;
+  padding: 10px;
+}
+	.workout_print_font_size
+  {
+    font-size: 16px;
+  }
+
+
+
+}
+
+
+
+
+
+/* .activity_print{
+
+	padding: 10px 35px 0px 0px !important;
+
+	background-color : green !important;
+
+	} */
+
+.work_out_datalist_header .new_class.col-md-4{
+
+	display: flex !important;
+
+}	
+
+.print_title{
+
+	margin-top:50px;
+
+	}
+
+
+  .panel_rtl{
+    margin-right:20px;
+  }
+  .display_nutrition{
+    display: inline-block;
+    width: 250px;
+  } 
+  .display_nutrition_rtl{
+    display: inline-block;
+    width: 250px;
+  }
+@media print
+
+{	
+  .display_nutrition{
+    display: inline;
+    width: 250px;
+  }
+  .display_nutrition_rtl{
+    margin-top:-17px;
+  }
+.new
+
+{
+
+	float: right!important;
+
+	margin-top: -17px!important;
+
+}
+
+.abc_print{
+
+	margin-top: -25px;
+
+    margin-left: 160px;
+
+}
+.nutrition_top{
+  margin-left: 160px;
+}
+.margin_left_360{
+  margin-left: 370px;
+}
+span.col-md-3.col-sm-3.col-xs-12.nutrition_time{
+
+
+
+	 margin-left: 0px!important;
+
+	}	
+
+span.col-md-9.col-sm-9.col-xs-12.abc
+
+{
+
+	margin-left:0px;
+
+	}	
+
+	
+
+}
+
+.col-md-9.col-sm-9.col-xs-12.xyz_print
+
+{
+
+padding-top:-25px;
+	 margin-left: 160px;	
+
+}
+
+
+
+.xyz_print span.col-md-9.abc{
+padding-left: 145px;
+
+}
+
+/*  .abc_print{
+
+	margin-top: -20px;
+
+    margin-left: 235px;
+
+}
+
+span.col-md-3.col-sm-3.col-xs-12.nutrition_time{
+
+
+
+	 margin-left: 230px;
+
+    margin-top: -20px;
+
+	
+
+	}	
+
+span.col-md-3.col-sm-3.col-xs-12.abcs{
+
+	margin-left:160px;
+
+	}	 */ 
+
+.membr_left img {
+
+  height: 150px;
+
+  width: 150px;
+
+}
+
+
+
+#display_rout_list .activity .col-md-4 {
+
+  font-size: 14px;
+
+  font-weight: bold;
+
+}
+
+#display_rout_list .activity {
+
+  border-bottom: 1px solid #dedede;
+
+  float: left;
+
+  margin-bottom: 10px;
+
+  padding-bottom: 10px;
+
+  padding-top: 10px;
+
+}
+
+.img-circle.head_logo {
+
+  border-radius: 0;
+
+  height: 55px;
+
+  width: 55px;
+
+}
+
+h3.logo-image {
+
+    margin-bottom: 5px;
+
+    margin-top: 10px;
+
+}
+
+.achilactiveadd {
+
+  float: left;
+
+  margin-bottom: 5px;
+
+  width: 50%;
+
+  padding-right: 0px!important;
+
+  padding-left: 0px!important;
+
+}
+
+.activity_list span.label {
+
+  color: #76838c;
+
+  float: left;
+
+  font-size: 13px;
+
+  line-height: 20px;
+
+  width: 75px;
+
+  text-align: right;
+
+}
+
+.achilactiveadd > input {
+
+  float: left;
+
+}
+
+.achilactiveadd > lable {
+
+
+
+     padding-left: 0px;
+
+    padding-top: 7px;
+
+    text-align: right
+
+}
+
+.my-workouts {
+
+    width: 55px;
+
+}
+
+.box-scroll {
+
+  max-height: 350px;
+
+  overflow: scroll;
+
+}
+
+.my-workouts-display {
+
+  background-color: #ffffff;
+
+  color: #3c3c3c;
+
+  padding-bottom: 25px;
+
+}
+
+.activity-data {
+
+    margin-bottom: 10px;
+
+}
+
+.workout-block {
+
+  float: left;
+
+  margin-bottom: 15px;
+
+  /* margin-top: 15px;   */
+
+  width: 100%;
+
+}
+.wordout_heading_border
+{
+  border: 1px solid #E1E3E5;
+}
+.panel-title {
+
+ /*  width: 100%; */ /* rinkal changes */
+
+}
+
+.panel-title-color {
+
+  color:red;
+
+}
+
+.workout-block .work_date {
+
+  color: #f25656;
+
+}
+
+.workout-block .report_title {
+
+  border-bottom: 1px solid #dedede;
+
+  margin-bottom: 20px;
+
+  padding-bottom: 5px;
+
+  padding-left: 0;
+
+}
+
+.workout_datalist {
+
+    font-size: 14px;
+
+}
+
+.work_out_datalist:nth-child(2n+1) {
+
+  background: #ffffff none repeat scroll 0 0;
+
+}
+
+.work_out_datalist:nth-child(2n) {
+
+  background: #ffffff none repeat scroll 0 0;
+
+}
+
+.workout_datalist_header {
+
+  float: left;
+
+  width: 100%;
+
+}
+
+.sets_counter {
+
+	  background-color: #02967d;
+
+ 
+
+  border-radius: 50%;
+
+  color: #ffffff;
+
+  float: left;
+
+  height: 30px;
+
+  padding: 5px;
+
+  position: relative;
+
+  text-align: center;
+
+  width: 30px;
+
+  z-index: 1 !important;
+
+}
+
+
+
+.sets_kg {
+
+   background-color: #1db198;
+
+  border-radius: 15px;
+
+  float: left;
+
+  font-size: 19px;
+
+  font-weight: bold;
+
+  height: 30px;
+
+  margin-left: -31px;
+
+  padding: 2px;
+
+  position: relative;
+
+  text-align: center;
+
+  width: 68%;
+
+  color:#fff;
+
+}
+
+
+
+.border_line {
+
+  background: #dedede none repeat scroll 0 0;
+
+  content: "1";
+
+  float: left;
+
+  height: 1px;
+
+  margin-bottom: 8px;
+
+  margin-top: 14px;
+
+  width: 100%;
+
+}
+
+.col-md-6.sets-row {
+
+  float: left;
+
+  width: 50%;
+
+}
+
+.reps_count {
+
+  color: #4e5e6a;
+
+  float: left;
+
+  font-size: 18px;
+
+  font-weight: bold;
+
+  margin-left: 5px;
+
+  padding: 1px;
+
+}
+
+.nutrition_add {
+
+  float: left;
+
+  margin-bottom: 5px;
+
+  width: 100%;
+
+}
+
+/* //width: 96%; */
+
+.nutrition_add textarea {
+
+  float: left;
+
+  margin-left: 10px;
+
+  margin-top: 10px;
+
+}
+
+.my-workouts-display .col-md-10.activity-data {
+
+ 
+
+  padding-bottom: 10px;
+
+}
+
+.no-paddingleft {
+
+  padding-left: 0 !important;
+
+}
+
+.no-padding{padding:0 !important;}
+
+.no-paddingright {
+
+  padding-right: 0 !important;
+
+}
+
+.activity_title.checkbox {
+
+  float: left;
+
+  margin-left: 10px;
+
+}
+
+
+
+.nutrition_title {
+
+  font-size: 14px;
+
+  font-weight: bold;
+
+  margin-bottom: 5px;
+
+}
+
+.info-box-stats .info-box-title {
+
+	/* float:right; */ /*rinkal changes css*/
+
+	color: #F9FDFB !important;
+
+	padding: 4px 10px 0;
+
+}
+
+.info-box .info-box-stats span.info-box-title{
+
+	margin-bottom: 0 !important;
+
+}
+
+.info-box-stats p {
+
+	color: #F9FDFB !important;
+
+	margin-top: 15px; 
+
+	float:left;
+
+	padding-left: 0px;
+
+}
+
+.col-md-4.membership-list {
+
+    float: right;
+
+}
+
+/* .img-circle {
+
+  height: 40px !important;
+
+    width: 40px !important;
+
+} */
+
+/* rinkal changes*/
+
+.panel-body.member {
+
+    /* background-color: #5fce9b;
+
+    height: 145px;
+
+	float: left;
+
+	width:100%;
+
+	text-align:center; */
+
+}
+
+.panel-body.staff-member {
+
+    /* background-color: #66B5D6;
+
+    height: 145px;
+
+	float: left;      /* rinkal changes*/
+
+	/* width:100%;
+
+	text-align:center; */ 
+
+}
+
+ /* rinkal changes*/
+
+.panel-body.group {
+
+    /* background-color: #E87352;
+
+    height: 145px;
+
+	float: left;
+
+	width:100%;
+
+	text-align:center; */
+
+}
+
+.panel-body.message {
+
+    /* background-color: #EECA5A;
+
+    height: 145px;
+
+	float: left;
+
+	width:100%;
+
+	text-align:center; */
+
+}
+
+.dashboard_background_message
+
+{
+
+	/* margin: 45px 0 0 55px !important; */
+
+	/* margin-top:45px; */ /*rinkal changes*/
+
+}
+
+.info-box-stats.groups-label {
+
+    margin-left: 0px;
+
+}
+
+.col-sm-offset-2.col-sm-8.schedule-save-button {
+
+   margin-top: 30px;
+
+}
+
+.modal-body #invoice_print {
+
+  max-height: 450px !important;
+
+  overflow: scroll;
+
+  padding-right: 5px;
+
+}
+
+table.dataTable.dtr-inline.collapsed > tbody > tr > td:first-child::before, table.dataTable.dtr-inline.collapsed > tbody > tr > th:first-child::before {
+
+  background-color: #22baa0 !important;
+
+}
+
+table.dataTable.dtr-inline.collapsed > tbody > tr.parent > td:first-child::before, table.dataTable.dtr-inline.collapsed > tbody > tr.parent > th:first-child::before {
+
+  background-color: #e14444 !important;
+
+}
+
+.right_side .table_row ,.member_right .table_row {
+
+  border-bottom: 1px solid #dedede;
+
+  float: left;
+
+  width: 100%;
+
+}
+
+.table_row .table_td {
+
+  padding: 10px 15px !important;
+
+}
+
+.right_side .table_row i, .member_right .table_row i {
+
+  padding-right: 10px;
+
+}
+
+.col-md-6.col-sm-12.right_side {
+
+  margin-top: 13px;
+
+}
+
+.profile-image img {
+
+ 
+
+  height: 150px !important;
+
+    width: 150px !important;
+
+ 
+
+}
+
+.nav-side-menu .toggle-btn, .nav-side-menu .brand {
+
+  display: none;
+
+}
+
+.left_section2{float:left;}
+
+.nav-tab {
+
+  position: relative;
+
+/*   top: 1px; */
+
+}
+
+h1.nav-tab-wrapper, h2.nav-tab-wrapper, h3.nav-tab-wrapper {
+
+  border-bottom: 1px solid hsl(0, 0%, 80%);
+
+  padding-bottom: 0;
+
+  padding-left: 10px;
+
+}
+
+#access_right_form .row {
+
+  border-bottom: 1px solid hsl(0, 0%, 87%);
+
+  padding-bottom: 10px;
+
+  padding-top: 10px;
+
+}
+
+#access_right_form .menu-label {
+
+  font-weight: bold;
+
+  line-height: 36px;
+
+}
+
+/*-----MY START FROM HERE----------*/
+
+.wpgym-border-box {
+
+  border: 1px solid #dedede !important;
+
+  border-radius: 5px;
+
+  float: left;
+
+  margin: 20px 0;
+
+  width: 100%;
+
+  padding:10px;
+
+}
+
+.wpgym-block {
+
+  float: left;
+
+  margin-top: 20px;
+
+  padding-bottom: 20px;
+
+  width:100%;
+
+}
+
+.wpgym-btn-buynow,.wpgym-readmore,.wpgym-btn-sample {
+
+  background: #808080 none repeat scroll 0 0;
+
+  color: #ffffff !important;
+
+  margin: 0 10px;
+
+  padding: 10px;
+
+}
+
+.wpgym-btn-buynow a,.wpgym-readmore a {
+
+   color: #ffffff !important;
+
+  font-weight: bold;
+
+}
+
+.sortable-list {
+
+  list-style: outside none none;
+
+}
+
+.wpgym-border-box {
+
+  padding: 15px;
+
+}
+
+.wpgym-course-lession-list {
+
+  padding: 10px 20px	;
+
+}
+
+.wpgym-membershiptitle {
+
+  font-size: 2.6rem;
+
+  font-weight: 500;
+
+  text-decoration: underline;
+
+}
+
+/*-----END FROM HERE----------*/
+
+/*  .gym_left .collapse {
+
+  display:block !important;
+
+}  */
+
+.gmgt_ajax-ani {
+
+  background-color: #ffffff;
+
+  display: none;
+
+  height: 100%;
+
+  left: 0;
+
+  opacity: 0.8;
+
+  position: absolute;
+
+  top: 0;
+
+  width: 100%;
+
+  z-index: 100;
+
+}
+
+.gmgt_ajax-img {
+
+  display: none;
+
+  left: 40%;
+
+  position: absolute;
+
+  top: 20%;
+
+  z-index: 999;
+
+}
+
+/*.page-inner #message {padding:10px;}*/
+
+.gmgt_ajax-img > img {
+
+  margin-top: 220px;
+
+}
+
+.currency_symbole {
+
+  font-size: 20px;
+
+}
+
+/*-----botstrap datepicker css in model--------------*/
+
+.dropdown-menu.datepicker {
+
+	    z-index: 9999;
+
+		margin-top: -20px;
+
+}
+
+.gym-management-content .dropdown-menu.datepicker {
+
+	    z-index: 9999;
+
+		margin-top: 0px !important;
+
+}
+
+/*-----VIEW REPORT CSS--------------*/
+
+.chart_div
+
+{
+
+  width: 100%; 
+
+  height: 500px;
+
+}
+
+/*-----CLASS BOKED  CSS--------------*/
+
+.class_booked
+
+{
+
+	border-left: 4px solid red;   
+
+	border-right: 4px solid red;
+
+}
+
+
+
+/*-----FRONTEND LOGIN PAGE CSS--------------*/
+
+
+
+.login-error
+
+{
+
+	background-color: #FFEBE8;
+
+	border:1px solid #C00;
+
+	padding:5px;
+
+}
+
+/*---   add_or_remove   --*/
+
+.add_or_remove
+
+{
+
+	padding: 10px;
+
+}
+
+/*---   no of class and member radio css  --*/
+
+
+.to_label_css
+
+{
+
+	padding: 8px;
+
+}
+
+.margin_top_5
+
+{
+
+  margin-top: 5px;
+
+}
+
+
+
+.hidden{
+
+	display:none;
+
+}
+
+
+
+.visible{
+
+	display:block;
+
+}
+
+.viewmember_image_height
+
+{
+
+  height:318px;
+
+}
+
+.upload_gym_cover_preview
+
+{
+
+	width: 450px; 
+
+	height: 250px;
+
+}
+
+.margin_dasboard{
+
+       margin-top: -12px;
+
+}
+
+.dashboard_height{
+
+/* 	min-height: 50px;
+
+	max-height: 291px;
+
+	overflow-y: auto; */
+
+	   
+
+}
+
+.dashboard_height_new{
+
+	min-height: 267px;
+
+	max-height: 267px;
+
+	overflow-y: auto;
+
+	   
+
+}
+
+.content_width {
+
+    width: 50%!important;
+
+    padding: 0px!important;
+
+}
+
+.Today_workout_div
+
+{   
+
+	/* min-height: 325px;
+
+    max-height: 325px;
+
+    overflow: auto; */
+
+}
+
+.cal{
+
+	height:607px;
+
+}
+
+
+
+.mark_Notice_fronend{
+
+	background-color:#12AFCB;
+
+}
+
+.mark_Reservation_fronend{
+
+	background-color:#22BAA0;
+
+}
+
+.popup-bg 
+
+{
+
+	background: rgba(0,0,0,0.40);
+
+}
+
+.hms_message_block {
+
+    display: block;
+
+}
+
+.work_out_datalist_header{
+
+
+
+	display:flex !important;
+
+	}
+
+.activity_print1{
+
+	
+
+	}
+
+.user-choice-area {
+
+    margin-bottom: 0px;
+
+    margin-top: -40px;
+
+}
+
+.student_login_form
+
+{
+
+  padding-top: 50px;
+
+}
+
+.margin_bottom_5_per
+
+{
+
+	 margin-bottom: 4% !important;
+
+}
+
+/* .dropdown-menu
+
+{
+
+	min-width: 250px !important;
+
+} */
+
+#activity_category .multiselect-container
+
+{
+
+	overflow: auto !important;
+
+    height: 180px  !important;
+
+}
+
+.width_110
+
+{
+
+	width:110px;
+
+}
+
+.padding_right_5
+
+{
+
+	padding-right:5px;
+
+}
+
+
+
+@media only screen and (max-width : 440px) 
+
+{
+
+.user-choice-block {
+
+    width: 50%!important;
+
+}
+
+}
+
+@media only screen and (max-width : 1400px) 
+
+{
+
+p.login-username label{
+
+    /* width: 50%; */
+
+}
+
+	}
+
+.fronted_payment_button{
+
+	margin-top:20px;
+
+	}	
+
+/*-------------- Windows Safari CSS --------------*/
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+
+    /* Safari only override */
+
+    ::i-block-chrome, .page-inner {
+
+		min-width:100% !important;
+
+    }
+
+	::i-block-chrome, .page-inner a {
+
+		text-decoration: none !important;
+
+    }
+
+}
+
+/*-------------- IE CSS --------------*/
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) { 
+
+	#payment_list_length select { 
+
+		padding-right:3px !important;
+
+	} 
+
+	*:focus {
+
+		outline: none !important;
+
+	}
+
+	
+
+}
+
+@media only screen and (min-width : 767px) {
+
+	p.login-username {
+
+		/* width: 40%; */
+
+	}
+
+	p.login-password{
+
+		/* width:40%; */
+
+	}
+
+	div#login-error {
+
+		/* width: 40%; */
+
+	}
+
+}
+
+.page-template-default .entry-content a{
+
+	display: block;
+
+    text-align: left;
+
+}
+
+input#wp-submit {
+
+    padding: 10px;
+
+}
+
+.date_class {
+
+    margin-left: -15px;
+
+}
+
+@media only screen and (max-width: 319px) and (min-width: 420px){
+
+#main-wrapper .col-md-10 .mailbox-content tr td{
+
+  padding: 0px !important;
+
+}
+
+#main-wrapper .col-md-10 .mailbox-content{
+
+  padding: 0px !important;
+
+}
+
+}
+
+.dir_rtl
+
+{
+
+  direction: rtl;
+
+}
+
+.col-md-1.update_dp {
+
+  margin: 10px 0 0 0px;
+
+  width: 100%;
+
+  text-align:center;
+
+}
+
+#membesrship_list_view tbody.tabel_member tr td
+
+{
+
+	width:50%;
+
+}
+
+.membership_description_view
+
+{
+
+	width: 100%;
+
+    float: left;
+
+    max-height: 150px;
+
+    overflow: auto;
+
+}
+
+.membership_description_view ul {
+
+    display: block;
+
+    list-style-type: disc;
+
+    margin-block-start: 1em;
+
+    margin-block-end: 1em;
+
+    margin-inline-start: 0px;
+
+    margin-inline-end: 0px;
+
+    padding-inline-start: 40px;
+
+}
+
+.flot_left_100
+
+{
+
+	width:100%!important;
+
+}
+
+.membership_description_div
+
+{
+
+	width: fit-content;
+
+    float: left;
+
+    display: flex;
+
+    margin: 0px 0px 0px 15px;
+
+}
+
+.mb_20
+
+{
+
+	margin-bottom:20px;
+
+}
+
+.mt_10
+
+{
+
+	margin-top:10px;
+
+}
+
+.padding_10
+
+{
+
+	padding:10px !important;
+
+}
+
+@media (min-width: 319px) and (max-width: 500px)
+
+{
+
+
+
+	input#user_login
+
+	{
+
+		max-width:unset !important;
+
+	}
+
+	input#user_pass
+
+	{
+
+		max-width:unset !important;
+
+	}
+
+
+
+}
+
+.et_divi_theme .user-choice-area
+
+{
+
+  margin-top: auto;
+
+}
+
+.et_divi_theme p.login-username
+
+{
+
+  width: auto !important  ;
+
+}
+
+@media only screen and (min-width : 767px) {
+
+		.user-choice-area {
+
+			/* width: 100%;
+
+			display: block;
+
+			float: left;
+
+			max-width: 480px;
+
+			margin: auto; */
+
+		}
+
+}
+
+@media only screen and (max-width : 420px) {
+
+	.student_registraion_form .form-group .col-sm-2, .student_registraion_form .form-group .col-sm-8, .student_registraion_form .form-group .col-sm-7, .student_registraion_form .form-group .col-sm-1 {
+
+		width: auto !important;
+
+	}
+
+	.student_registraion_form .form-group .col-sm-8{
+
+		float: unset !important;
+
+	}
+
+}
+
+.user-choice-block{
+
+	align-items: center;
+
+    display: flex;
+
+}
+
+.user-choice-block .user_login_choice{
+
+	margin-bottom: 0px;
+
+}
+
+.student_reg_error{
+
+	float: left;
+
+}
+
+.login-password, .login-username{
+
+		margin-bottom: 15px;
+
+	}
+
+@media only screen and (min-width : 767px) {
+
+	.has-main-navigation .login-username label, .has-main-navigation .login-password label{
+
+		float: left;
+
+		min-width: 230px;
+
+	}
+
+	.singular.image-filters-enabled .login-username label, .singular.image-filters-enabled .login-password label{
+
+		float: left;
+
+		min-width: 255px;
+
+	}
+
+}
+
+#guset_booking #close{
+
+	padding: 5px 10px;
+
+}
+
+.wp-embed-responsive .classs_booking_div_main_class_guest br{
+
+	display: none;
+
+}
+
+.wp-embed-responsive .classs_booking_div_main_class_guest .width_80{
+
+	margin: auto !important;
+
+}
+
+.wp-embed-responsive .classs_booking_div_main_class_guest .col-sm-12.col-md-12{
+
+	margin-bottom: 10px;
+
+}
+
+.wp-embed-responsive .fnt_color{
+
+	margin: 0px;
+
+}
+
+.image-filters-enabled .entry-title:before{
+
+	display: none !important;
+
+}
+
+.ml_20
+
+{
+
+  margin-left: 20px !important;
+
+}
+
+@media print
+
+{	
+    
+    /* .position_absolute{
+
+		position: absolute;
+
+		top:25px;
+
+	}   */
+
+}
+
+.end_dateformError.parentFormnutrition_form.formError
+
+{
+
+  z-index: -1;
+
+}
+
+.dis_block
+
+{
+
+  display:block !important;
+
+}
+
+button.dt-button.buttons-collection.buttons-colvis
+
+{
+
+  background: seagreen !important;
+
+  color: white  !important;
+
+}
+
+button.dt-button.buttons-print
+
+{
+
+  background: seagreen !important;
+
+  color: white  !important;
+
+}
+
+button.dt-button.buttons-pdf.buttons-html5
+
+{
+
+  background: seagreen !important;
+
+  color: white  !important;
+
+}
+
+button.dt-button.buttons-excel.buttons-html5
+
+{
+
+  background: seagreen !important;
+
+  color: white  !important;
+
+}
+
+.frunted_message_unreded {
+
+  height: 25px !important;
+
+  width: 25px !important;
+
+  padding: 3px !important;
+
+  font-size: 17px !important;
+
+  margin-bottom: 5px !important;
+
+  background-color: #ff5722 !important;
+
+  display: inline-block;
+
+  border-radius: 12px!important;
+
+}
+
+.edit_workout_padding_bottom
+
+{
+
+  text-align: center;
+
+  margin-top: 20px;
+
+}
+
+.frontend_btn
+
+{
+
+  float: left;
+
+    width: 100%;
+
+    margin-top: 10px;
+
+}
+
+/*------------ NEW Boostrap CSS(31-05-2021)--------- */
+
+.modal-header
+
+{
+
+	display:block !important;
+
+}
+
+.fc-button-primary {
+
+    background-color: #fff !important;
+
+    background-image: none !important;
+
+    border-color: #e5e5e5 !important;
+
+    color: #333 !important;
+
+    text-shadow: 0;
+
+    box-shadow: 0;
+
+    outline: 0!important;
+
+}
+
+.fc .fc-col-header-cell-cushion,.fc-daygrid-day-number {
+
+    text-decoration: none !important;
+
+    color: #4E5E6A !important;
+
+}
+
+.chart_dashboard
+
+{
+
+	width: 100%; 
+
+	height: 500px;
+
+}
+
+#addremove
+
+{
+
+	border-radius: revert !important;
+
+}
+
+a {
+
+    color: #0d6efd;
+
+    text-decoration: none !important;
+
+}
+
+.nav-tabs>li {
+
+    float: left;
+
+    margin-bottom: -1px;
+
+}
+
+.nav>li {
+
+    position: relative;
+
+    display: block;
+
+}
+
+/* .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+
+   border: 1px solid #ddd;
+
+} */
+
+.nav-tabs>li>a {
+
+    margin-right: 2px;
+
+    line-height: 1.42857143;
+
+
+
+}
+
+.nav>li>a {
+
+    position: relative;
+
+    display: block;
+
+    padding: 10px 15px;
+
+}
+
+.float_left
+
+{
+
+	float:left;
+
+}
+
+.float_right
+
+{
+
+	float:right;
+
+}
+
+.min_height_935
+
+{
+
+	min-height: 935px;
+
+}
+
+h3.logo-image {
+
+    margin-bottom: 5px;
+
+    margin-top: 10px;
+
+}
+
+.img-circle.head_logo {
+
+    border-radius: 0;
+
+    height: 55px;
+
+    width: 55px;
+
+}
+
+.img-circle {
+
+    height: 40px;
+
+    width: 40px;
+
+    margin: 0px 8px;
+
+    /* border-radius: 50%; */
+
+}
+
+.multiselect-all .form-check-input,.multiselect-option .form-check-input
+
+{
+
+	margin-top: 6px !important;
+
+}
+
+.dropdown-item.active, .dropdown-item:active {
+
+    background-color: #d3d3d3 !important;
+
+    color: #000 !important;
+
+}
+
+.multiselect-native-select .dropdown-item input[type=checkbox]:checked::before {
+
+    color: #ffffff !important;
+
+}
+
+.margin_top_70
+
+{
+
+	margin-top: 70px;
+
+}
+
+.pull-right
+
+{
+
+	float:right;
+
+}
+
+.opacity_div .fade:not(.show) {
+
+    opacity: unset !important;
+
+}
+
+.min_height_1631
+
+{
+
+	min-height:400px !important
+
+}
+
+.float_left_width_100
+
+{
+
+	float:left;
+
+	width:100%;
+
+}
+
+.margin_bottom_20
+
+{
+
+	margin-bottom:20px;
+
+}
+
+.margin_bottom_10
+
+{
+
+	margin-bottom:10px;
+
+}
+
+.chart_css
+
+{
+
+	width: 100%; 
+
+	height: 500px;
+
+}
+
+.width_125
+
+{
+
+  width: 125px;
+
+}
+
+.label_fun
+
+{
+
+
+
+}
+
+.width_50
+
+{
+
+  width:50%;
+
+}
+
+.margin_top_40
+
+{
+
+  margin-top:40px;
+
+}
+
+.width_530
+
+{
+
+  width: 530px !important;
+
+}
+
+.color_1
+
+{
+
+  color:#4CAF50;
+
+}
+
+.color_2
+
+{
+
+  color:#008CBA;
+
+}
+
+.color_3
+
+{
+
+  color:#e21313fc;
+
+}
+
+.width_10px{
+
+   width:10px;
+
+}
+
+.margin_top_10
+
+{
+
+	margin-top:10px !important;
+
+}
+
+.fileinput-cancel-button,.kv-upload-progress,.fc-daygrid-event-dot
+
+{
+
+	display:none !important;	
+
+}
+
+.fileinput-remove-button,.fileinput-upload-button
+
+{
+
+	margin-top: 10px;
+
+}
+
+.patient_data .fade:not(.show)
+
+{
+
+	opacity: unset;
+
+}
+
+.fc-daygrid-event {
+
+    padding: 5px !important;
+
+    background: #22BAA0;
+
+    border: 0 !important;
+
+	color:white;
+
+}
+
+.min_height_415 {
+
+    min-height: 415px;
+
+}	
+
+.margin_right_10
+
+{
+
+	margin-right:10px;
+
+}
+
+.navbar-right
+
+{
+
+	float:right;
+
+}
+
+.dropdown .multiselect
+
+{
+
+	min-width:158px;
+
+}
+
+.dropdownschedulelist_new .dropdown-menu li a {
+
+    padding: 7px 40px !important;
+
+    color: #5f5f5f;
+
+    font-size: 13px;
+
+}
+
+.padding_0
+
+{
+
+	padding:0 !important;
+
+}
+
+.panel .panel-heading {
+
+    padding: 18px;
+
+    overflow: hidden;
+
+    border-top-left-radius: 0;
+
+    border-top-right-radius: 0;
+
+    height: 52px !important;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+}
+
+.line_height_2
+
+{
+
+	line-height: 2.5 !important;
+
+}
+
+.dropdown-menu li a {	
+
+    display: block;
+
+}
+
+.tab-content .fade:not(.show) {
+
+    opacity: unset !important;
+
+}
+
+.display_none
+
+{
+
+	display:none !important;
+
+}
+
+.display_block
+
+{
+
+	display:block;
+
+}
+
+.overflow_scroll
+
+{
+
+	overflow:scroll !important;
+
+}
+
+.margin_top_7
+
+{
+
+	margin-top:7px;
+
+}
+
+.padding_top_7
+
+{
+
+	padding-top:7px;
+
+}
+
+.padding_bottom_7
+
+{
+
+	padding-bottom:7px;
+
+}
+
+.margin_left_10
+
+{
+
+	margin-left:10px;
+
+}
+
+.width_200
+
+{
+
+	width:200px;
+
+}
+
+.font_bold
+
+{
+
+	font-weight: bold
+
+}
+
+.width_18_auto
+
+{
+
+	width: 18px !important; 
+
+	height: auto !important;
+
+}
+
+.invoice_img_fun
+
+{
+
+	vertical-align:top;
+
+	background-repeat:no-repeat;
+
+}
+
+.margin_right_2
+
+{
+
+	margin-right:2px;
+
+}
+
+.border_collapse
+
+{
+
+	border-collapse:collapse;
+
+}
+
+.rtl1
+
+{
+
+	float: left;
+
+	width: 50%;
+
+	transform: scale(-1,1);
+
+}
+
+.padding_top_110
+
+{
+
+	padding-top:110px;
+
+}
+
+.padding_left_15
+
+{
+
+	padding-left:15px;
+
+}
+
+.padding_left_20
+
+{
+
+	padding-left:20px;
+
+}
+
+.padding_right_30
+
+{
+
+	padding-right:30px;
+
+}
+
+.padding_top_50
+
+{
+
+	padding-top: 50px;
+
+}
+
+.pos_top_100
+
+{
+
+	position:absolute; 
+
+	top:100px;
+
+}
+
+.display_inline_left_10
+
+{
+
+	display: inline;
+
+	padding-left: 10px;
+
+}
+
+.max_height_80
+
+{
+
+	max-height:80px;
+
+}
+
+.padding_top_bottom_7
+
+{
+
+	padding-top: 7px;
+
+	padding-bottom: 7px;
+
+}
+
+.color_style1
+
+{
+
+	color:#f25656;
+
+	font-style: italic;
+
+}
+
+.activity_print_2
+
+{
+
+	margin-right:110px;
+
+	margin-top:-30px;
+
+}
+
+.activity_print_3
+
+{
+
+	margin-left:130px;
+
+	margin-top:-35px;
+
+
+
+}
+
+.activity_print_4
+
+{
+
+	margin-right:500px;
+
+	margin-top:-30px;
+
+}
+
+.activity_print_5
+
+{
+
+	margin-left:245px;
+
+	margin-top:-35px;
+
+	width: 100px;
+
+}
+
+.activity_print_6
+
+{
+
+	margin-right:325px;
+
+	margin-top:-30px;
+
+}
+
+.activity_print_7
+
+{
+
+	margin-left:340px;
+
+	margin-top:-37px;
+
+	width: 100px;
+
+}
+
+.activity_print_8
+
+{
+
+	margin-right:415px;
+
+	margin-top:-30px;
+
+}
+
+.activity_print_9
+
+{
+
+	margin-left:445px;
+
+	margin-top:-35px;
+
+	width: 100px;
+
+}
+
+.activity_print_10
+
+{
+
+	margin-right:480px;
+
+	margin-top:-30px;
+
+}
+
+.activity_print_11
+
+{
+
+	margin-left:545px;
+
+	margin-top:-38px;
+
+	width: 100px;
+
+}
+
+.margin_right_100
+
+{
+
+	margin-right:100px;
+
+}
+
+.margin_right_150_top_20
+
+{
+
+	margin-right:150px;
+
+	margin-top:-20px;
+
+}
+.nutrition_margin_right{
+  margin-right: 170px;
+}
+.nutrition_margin_right_100{
+  margin-right: 130px;
+}
+.margin_right_160
+
+{
+
+	margin-right: 160px;
+
+}
+
+.margin_left_160
+
+{
+
+	margin-left: 160px;
+
+}
+
+.margin_right_190
+
+{
+
+	margin-right: 190px;
+
+}
+
+.padding_right_0
+
+{
+
+	padding-right:0px;
+
+}
+
+.alert_msg
+
+{
+
+	color:red; 
+
+	font-size: 18px;
+
+}
+
+.msg2
+
+{
+
+	color:#3c763d; 
+
+	font-size: 18px;
+
+}
+
+.success_msg
+
+{
+
+	color:green; 
+
+	font-size: 18px;
+
+}
+
+.height_31
+
+{
+
+	height: 31px;
+
+}
+
+.model_close
+
+{
+
+	float: right;
+
+	margin-top:0px;
+
+}
+
+.padding_8
+
+{
+
+	padding:8px;
+
+}
+
+.margin_top_15
+
+{
+
+	margin-top:15px;
+
+}
+
+.margin_left_60_min
+
+{
+
+	margin-left: -60px;
+
+}
+
+.margin_left_245
+
+{
+
+	margin-left: 270px;
+
+}
+
+.mark_booked_class_fronend
+
+{
+
+	background-color: #B3D9B3;
+
+}
+
+.cursor_pointer
+
+{
+
+	cursor:pointer !important;
+
+}
+
+#join_link_href .fa .fa-video-camera
+
+{
+
+	color:white;
+
+}
+
+.padding_bottom_0
+
+{
+
+	padding-bottom:0 !important;
+
+}
+
+.form-control.file, .form-control.fronted_file {
+
+    border: 1px solid #dce1e4;
+
+}
+
+#buy_membership_class,.book_buy_btn
+
+{
+
+  padding: 5px !important;
+
+}
+
+.qr_code_class
+
+{
+
+  margin-top: 15px;
+
+}
+
+.stripe_div
+
+{
+
+	display:none;
+
+}
+
+.display_none_dashboard
+
+{
+
+	display:none !important;
+
+}
+
+.btn-info:hover{
+
+    color: #fff !important;
+
+}
+
+.margin_left_2
+
+{
+
+	margin-left:2%;
+
+}
+
+.col-sm-8 select
+
+{
+
+	width:100%!important;
+
+}
+
+.min_height_40
+
+{
+
+	min-height: 40px !important;
+
+}
+
+.margin_top_8
+
+{
+
+	margin-top:8px !important;
+
+}
+
+.margin_top_18
+
+{
+
+	margin-top:18px !important;
+
+}
+
+.margin_right_25
+
+{
+
+	margin-right:25px!important;
+
+}
+
+.display_flex
+
+{
+
+	display:flex;	
+
+}
+
+.text_align_end
+
+{
+
+	text-align: end;
+
+}
+
+#class_list_wrapper .dataTables_info,.dataTables_paginate,#booking_list_wrapper .dataTables_info,.dataTables_paginate
+
+{
+
+	font-weight: 400;
+
+}
+
+.min_width_100px
+
+{
+
+	min-width:90px !important;
+
+}
+
+.margin_right_5
+
+{
+
+	margin-right:5px;
+
+}
+
+.image_width_border{
+
+  border-radius: 10px;
+
+  width: 168px !important;
+
+}
+
+.qr_main_div{
+
+  text-align: center;
+
+  margin-top: 20px;
+
+  /* background: #15bde4; */
+
+  border-radius: 10px;
+
+}
+
+.qr_main_div h3{
+
+  color: white;
+
+  padding: 5px;
+
+  font-size: 20px !important;
+
+}
+
+.qr_image_div img{
+
+  padding: 15px;
+
+  background: white;
+
+  margin-bottom: 15px;
+
+  border-radius: 20px;
+
+}
+
+.frontend_qr_image img{
+
+  height: 140px !important;
+
+  width: 140px !important;
+
+}
+
+.sub_tab_css{
+
+  padding-top: 10px;
+
+}
+
+.radio_btn_custom_div{
+
+  padding-top: 10px;
+
+}
+
+#group_form .dayformError
+
+{
+
+	/* margin-top: -45px!important; */
+
+}
+
+#group_form .membership_idformError
+
+{
+
+	/* margin-top: -46px!important; */
+
+}
+
+
+
+.checkbox_label
+
+{
+
+	padding-top: 0px!important;
+
+}
+
+.padding_left_opx
+
+{
+
+	padding-left: 3px!important;
+
+}
+
+.display_none_m
+
+{
+
+	display:none;
+
+}
+
+.display_block
+
+{
+
+	display:block!important;
+
+}
+
+.vertical_align_middle
+
+{
+
+	vertical-align: middle!important;
+
+}
+
+.badge-delete
+
+{
+
+	padding: 3px 6px!important;
+
+}
+
+
+
+.chart_div
+
+{
+
+	font-family: "sans-serif"!important;
+
+    font-size: 16!important;
+
+}
+
+.product_name_popup
+
+{
+
+	padding-top: 20px!important;
+
+}
+
+.add_classlimit_member
+
+{
+
+	margin-bottom: 5px;
+
+}
+
+
+
+.label_for_workout
+
+{
+
+	margin-left: 37px!important;
+
+}
+
+.label_for_workout_reps
+
+{
+
+	margin-left: 32px!important;
+
+}
+
+.label_for_workout_kg
+
+{
+
+	margin-left: 26px!important;
+
+}
+
+.label_for_workout_min
+
+{
+
+	margin-left: 33px!important;
+
+}
+
+.today_attendance
+
+{
+
+	font-size: 14px !important;
+
+}
+
+
+
+/************* NEW CSS 08-09-2022 BY ASHISH  ************/
+
+
+
+.attendance_list .attendence_penal_body
+
+{
+
+  padding: 15px 0px 0px 0px;
+
+}
+
+.table_heading_font_family {
+
+  font-size: 14px;
+
+  color: #818386;
+
+  font-weight: 600;
+
+}
+
+.gmgt_att_tbl_list td
+
+{
+
+  color: #333333;
+
+  font-weight: 400;
+
+  font-size: 16px;
+
+}
+
+.attendance_list .panel-heading .panel-title {
+
+  font-size: 20px !important;
+
+  margin-bottom: 20px !important;
+
+  color: #333333;
+
+  font-weight: 600;
+
+}
+
+.admin_dashboard .form-table td .notice p, .notice p, .notice-title, div.error p, div.updated p
+
+{
+
+  margin: 0;
+
+  padding: 7px;
+
+}
+
+.attendance_list
+
+{
+
+  padding: 0px 5px 5px 5px;
+
+}
+
+.btn_line_height_33px
+
+{
+
+  line-height: 33px !important;
+
+}
+
+.workout_detail_title_span
+
+{
+
+  color: #333333;
+
+  font-weight: 600;
+
+  font-size: 14px;
+
+}
+
+.view_workout_btn_width_height
+
+{
+
+  padding: 10px;
+
+}
+
+.dlt_btn
+
+{
+
+  height: 46px;
+
+  background-color: #fd726a !important;
+
+  color: #fff !important;
+
+  width: 100% !important;
+
+  font-weight: 500 !important;
+
+  font-size: 16px !important;
+
+  line-height: 24px;
+
+  text-align: center;
+
+  color: #FFFFFF;
+
+  text-transform: uppercase;
+
+  border: 0px solid black !important;
+
+}
+
+.btn_margin_top_10px
+
+{
+
+   line-height: 35px !important;
+
+}
+
+.workour_edit_table .date_border_css
+
+{
+
+    border: 1px solid #e0e0e0 !important;
+
+}
+
+.workour_edit_table .assign_workout_table_header_tr .assign_workout_right_border
+
+{
+
+  border-right: 1px solid #D9E1ED;
+
+  background-color: #F2F5FA;
+
+  border-bottom: 1px solid #D9E1ED;
+
+  text-align: center;
+
+}
+
+.workour_edit_table .assign_workout_table_header_tr .assign_workout_border
+
+{
+
+  background-color: #F2F5FA;
+
+  border-bottom: 1px solid #D9E1ED;
+
+  text-align: center;
+
+}
+
+.workour_edit_table
+
+{
+
+  border: 1px solid #D9E1ED;
+
+  text-align: center;
+
+  margin-bottom: 0px;
+
+}
+
+.assign_workout_table_header_tr .assign_workout_table_header
+
+{
+
+  font-size: 14px;
+
+  font-weight: 600;
+
+  color: #626363 !important;
+
+  padding: 10px;
+
+}
+
+.assign_workout_table_body_tr .assign_workout_table_body
+
+{
+
+  font-size: 14px;
+
+  font-weight: 400;
+
+  color: #626363 !important;
+
+}
+
+.assign_workout_table_body_tr .table_body_border_right
+
+{
+
+  border-right: 1px solid #D9E1ED;
+
+}
+
+.fullpaid_status_color
+
+{
+
+  color: #3AA415;
+
+}
+
+.paid_status_color
+
+{
+
+  color: #ba170b;
+
+}
+
+.Unpaid_status_color
+
+{
+
+  color: #ba170b;
+
+}
+
+.margin_right_50px
+
+{
+
+  margin-right: 50px;
+
+}
+
+.first_hed_activity
+
+{
+
+ padding-bottom: 0  !important;
+
+}
+
+.activity_background_white
+
+{
+
+  background-color: #fff !important;
+
+  border: 1px solid #E1E3E5;
+
+}
+
+.form-group .div_padding_bottom_0px {
+
+  padding-bottom: 0 !important;
+
+}
+
+.padding_10px
+
+{
+
+  padding: 10px;
+
+}
+
+.form-group .title_background_color{
+
+  background: #EFEFEF !important;
+
+}
+
+.div_margin_top_15px
+
+{
+
+  margin-top: 15px !important;
+
+}
+
+.measurement_popup_action_dropdown
+
+{
+
+  transform: translate(542px, 185px) !important;
+
+}
+
+.workout_box 
+
+{
+
+  width: 240px !important;
+
+  height: 186px;
+
+  background: #FFFFFF;
+
+  box-shadow: 0px 0px 20px 1px rgb(0 0 0 / 10%);
+
+}
+
+#card-sets-bg {
+
+  background-color: #b5fafb4d;
+
+  margin-top: 30px;
+
+}
+
+.gmgt-card-member-bg h2
+
+{
+
+  font-weight: 600;
+
+  font-size: 30px;
+
+  line-height: 26px;
+
+  text-align: center;
+
+  color: #37CFD1;
+
+  margin-top: 10px;
+
+}
+
+#card-reps-bg {
+
+  background-color: #ff90541f;
+
+  margin-top: 30px;
+
+}
+
+#card-kg-bg {
+
+  background-color: #ffca6126;
+
+  margin-top: 30px;
+
+}
+
+#card-time-bg {
+
+  background-color: #44cb7f1a;
+
+  margin-top: 30px;
+
+}
+
+.gmgt-card-member-bg .activity_box_number_time
+
+{
+
+  color: #44CB7F !important;
+
+}
+
+.gmgt-card-member-bg .activity_box_number_kg
+
+{
+
+  color: #FFCA61 !important;
+
+}
+
+.gmgt-card-member-bg .activity_box_number_reps
+
+{
+
+  color: #FF9054 !important;
+
+}
+
+.view_workout_background_color
+
+{
+
+  background-color: #F2F5FA;
+
+}
+
+.div_padding_30
+
+{
+
+  padding: 20px;
+
+  /* margin-top: 10px; */
+
+}
+
+.textarea_height_and_margin textarea
+
+{
+
+  height: 47px;
+
+  margin-top: 15px !important;
+
+  margin-bottom: 13px !important;
+
+  border: 1px solid #D9E1ED !important;
+
+  line-height: 14px !important;
+
+}
+
+
+
+/********* Invoice CSS 24-08-2022  **********/
+
+
+
+.float_left_width_100 {
+
+  float: left;
+
+  width: 100%;
+
+}
+
+.border_invoice_page {
+
+  border: 1px solid #dee2e6;
+
+}
+
+.height_600px {
+
+  height: 1130px !important;
+
+}
+
+.school_name_for_invoice_view{
+
+  position: relative;
+
+  word-break: break-word;
+
+  width: 70%;
+
+  font-size: 26px;
+
+  color: #333333;
+
+}
+
+#invoice_print .row .width_1 img
+
+{
+
+  height: 65px !important;
+
+  width: 65px !important;
+
+  border-radius: 15px;
+
+}
+
+.invoice_address_heading h3 {
+
+  font-size: 20px !important;
+
+  font-weight: 600;
+
+  color: #333333;
+
+}
+
+.invoice_width_100 {
+
+  width: 100%;
+
+}
+
+.billed_to {
+
+  vertical-align: top;
+
+  float: left;
+
+}
+
+.address_information_invoice {
+
+  font-size: 16px !important;
+
+  color: #333333;
+
+  font-weight: 400;
+
+}
+
+.width_60b2 {
+
+  float: left;
+
+}
+
+
+
+.popup_label_heading {
+
+  color: #818386;
+
+  font-size: 14px !important;
+
+  line-height: 22px;
+
+  font-weight: 500;
+
+  font-family: 'Poppins' !important;
+
+  text-transform: uppercase;
+
+  display: contents;
+
+}
+
+.invoice_model_value {
+
+  color: #333333;
+
+  font-size: 16px !important;
+
+  font-weight: 700;
+
+}
+
+.display_name {
+
+  font-size: 16px;
+
+  font-weight: 600;
+
+  color: #333333;
+
+}
+
+#invoice_print .table_max_height_180px {
+
+  max-height: 180px;
+
+  overflow: auto !important;
+
+}
+
+.entry_heading {
+
+  background-color: #F2F2F2 !important;
+
+}
+
+.table>:not(:last-child)>:last-child>* {
+
+  border-bottom: 1px solid #ddd !important;
+
+}
+
+.entry_table_heading {
+
+  color: #818386 !important;
+
+  font-size: 14px !important;
+
+  font-weight: 600;
+
+  text-transform: uppercase !important;
+
+}
+
+.invoice_table_data {
+
+  font-size: 16px !important;
+
+  font-weight: 400;
+
+  color: #333333 !important;
+
+}
+
+.total_heading {
+
+  font-size: 18px;
+
+  font-weight: 500;
+
+  line-height: 15px;
+
+  color: #818386 !important;
+
+}
+
+
+
+.total_value {
+
+    font-size: 18px;
+
+    font-weight: 700;
+
+    line-height: 27px;
+
+    color: #333333 !important;
+
+    padding-left: 20px;
+
+}
+
+.invoice_table_grand_total {
+
+  background-color: #ba170b;
+
+}
+
+.padding_11 {
+
+  padding: 9px!important;
+
+}
+
+.view_invoice_lable .invoice_total_label {
+
+  font-size: 18px !important;
+
+  font-weight: 500;
+
+  margin: 0;
+
+  line-height: 40px;
+
+}
+
+.invoice_total_value {
+
+  font-size: 22px !important;
+
+  font-weight: 700;
+
+  margin: 0;
+
+  line-height: 40px;
+
+}
+
+.label_min_width_130px
+
+{
+
+  width: 110px;
+
+  min-width: 110px;
+
+}
+
+#invoice_print .table_max_height_250px {
+
+  max-height: 165px;
+
+  overflow: scroll !important;
+
+}
+
+.invoice_print_pdf_btn .invoice_btn_div
+
+{
+
+  height: 58px;
+
+  width: 55px !important;
+
+}
+
+.invoice_print_pdf_btn .invoice_btn_div img
+
+{
+
+  padding: 7px 0;
+
+}
+
+.margin_20px_position
+
+{
+
+  margin: 10px;
+
+  position: absolute;
+
+}
+
+.margin_top_20px {
+
+  margin-top: 20px !important;
+
+}
+
+.workout_datalist .workout_box .gmgt-card-number h3
+
+{
+
+  font-size: 22px;
+
+  float: left;
+
+}
+
+.workout_datalist .workout_box .gmgt-card-number
+
+{
+
+  float: left;
+
+  width: 100%;
+
+  height: 40px;
+
+}
+
+.workout_datalist .workout_box .gmgt-card-title
+
+{
+
+  float: left;
+
+  margin-top: 0 !important;
+
+  height: 40px;
+
+  line-height: 35px;
+
+}
+
+.workout_datalist .workout_box .gmgt-card-member-bg
+
+{
+
+  width: 60px !important;
+
+  height: 60px;
+
+}
+
+.workout_box
+
+{
+
+  width: 250px !important;
+
+  height: 95px !important;
+
+}
+
+.workout_datalist .workout_box .activity_box_number
+
+{
+
+  margin-left: 10px;
+
+  margin-top: 10px !important;
+
+}
+
+
+
+/****************** FORNTEND SIDE NEW DESIGN CSS  *********************/
+
+.main_sidebar #sidebar .gmgt-navigation-forntend
+
+{
+
+  margin-top: 35%;
+
+  padding: 0;
+
+}
+
+.forntend_dashboard_main_div h3, .forntend_dashboard_main_div h4, .forntend_dashboard_main_div h2
+
+{
+
+  font-family: 'poppins' !important;
+
+}
+
+.forntend_dashboard_main_div select
+
+{
+
+  line-height: 2.4 !important;
+
+}
+
+.forntend_dashboard_main_div #main-wrapper
+
+{
+
+  padding: 0 5px;
+
+}
+
+.forntend_dashboard_main_div #message button 
+
+{
+
+  float: right;
+
+}
+
+.forntend_dashboard_main_div #message
+
+{
+
+  font-size: 14px;
+
+  font-weight: 500;
+
+  font-family: 'poppins';
+
+}
+
+.forntend_dashboard_main_div .frontend_margin_left_right
+
+{
+
+  margin-left: 0px;
+
+  margin-right: 0px;
+
+}
+
+.forntend_dashboard_main_div .frontend_width_100_per
+
+{
+
+  width: 100%;
+
+}
+
+
+.account_page_main_div .panel
+
+{
+
+  padding-bottom: 15px;
+
+}
+
+.report_main_penal_body_div .save_btn
+
+{
+
+  line-height: 35px;
+
+}
+
+.padding_left_15px
+
+{
+
+  padding-left: 15px;
+
+}
+
+.video_width_height
+
+{
+
+  width: 100%;
+
+  height: 250px;
+
+}
+
+.margin_0px
+
+{
+
+  margin: 0 !important;
+
+}
+
+.ui-datepicker
+
+{
+
+  margin-top: -25px;
+
+}
+
+#setting-error-tgmpa
+
+{
+
+  display: none;
+
+}
+
+.forntend_dashboard_main_div input[type="radio"]
+
+{
+
+  margin-right: 5px !important;
+
+}
+.workout_print_heading_font_family
+{
+  font-size: 16px;
+  color: #818386;
+  font-weight: 600;
+}
+.workout_print_body_font_family
+{
+  font-weight: 400;
+  font-size: 16px;
+  color: #595F69;
+}
+.birthdate_label
+{
+  text-transform: none;
+}
+#gmgt_user_avatar_url
+{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#gmgt_user_avatar_url1
+{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#gmgt_gym_background_image
+{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.notice-warning
+{
+  display: none!important;
+}
+.create_virtual_classroom_div_none
+{
+  display: none;
+}
+.create_virtual_classroom_div_none
+{
+  display:none;
+}
+.create_virtual_classroom_div_block
+{
+  display:block;
+}
+.lp-admin-notice,.vczapi-notice,.e-notice,.error,.settings-error,.nimble-welcome-notice,.wpcf7r-notice,.cta,#omapi-please-connect-notice
+{
+ display: none!important;
+}
+.attendance_list .date_type_div_none {
+  display: none ;
+}
+
+/* RENEW MEMBERSHIP */
+.Payment_body {
+    padding: 15px;
+}
+/* SETUP WIZARD */
+.accordion_wizzard {
+	margin-top: 4% !important;
+	margin-bottom: 1%;
+    box-shadow: 0px 0px 20px 1px rgb(0 0 0 / 10%);
+}
+.wizzard_button {
+    color: #333333 !important;
+    background-color: #ffffff !important;
+	box-shadow:none !important;
+}
+.wizard_heading{
+	font-weight: 600;
+}
+.panel_wizard{
+	padding: 0 20px;
+}
+.wizard_main {
+    border-top: 1px solid rgba(178, 186, 201, 0.5);
+}
+/*new*/
+.steps li.current {
+    outline: none;
+    -o-outline: none;
+    -ms-outline: none;
+    -moz-outline: none;
+    -webkit-outline: none;
+    position: relative;
+    padding-bottom: 3px;
+    padding-right: 63px;
+}
+.steps li .current-info {
+    display: none;
+}
+.steps li a .title {
+    text-align: center;
+}
+.steps li a .title .step-icon {
+	position: relative;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    -o-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+	box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+    background: rgba(173, 180, 191, 1);
+	border: 4px solid rgba(255, 255, 255, 1);
+    margin: 0 auto;
+    position: relative;
+    outline: none;
+    -o-outline: none;
+    -ms-outline: none;
+    -moz-outline: none;
+    -webkit-outline: none;
+    color: #fff;
+    font-size: 20px;
+}
+.steps li a .title span {
+    display: block;
+    font-size: 16px;
+}
+.steps ul {
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -o-justify-content: center;
+    -ms-justify-content: center;
+    -moz-justify-content: center;
+    -webkit-justify-content: center;
+    list-style: none;
+    padding-left: 0;
+}
+.steps li::before {
+    position: absolute;
+    content: "";
+    background: #ADB4BF;
+    width: 143px;
+    height: 6px;
+    top: 23%;
+    left: 50%;	
+}
+.steps li a .step-number {
+    color: #818386;
+    font-weight: 400;
+    padding: 17px 0 8px;
+}
+.steps.clearfix {
+    margin-top: 2%;
+    padding-bottom: 1px;
+}
+.wizard_setting{
+	/* background-color: #5840bb;*/
+	padding: 29%;
+    width: 100%;
+    height: 60px;;
+}
+.steps li a .step-text {
+    color: #333;
+    font-weight: 600;
+    padding-bottom: 8px;
+}
+.steps li{
+	outline: none;
+    -o-outline: none;
+    -ms-outline: none;
+    -moz-outline: none;
+    -webkit-outline: none;
+    position: relative;
+    padding-bottom: 3px;
+    padding-right: 5%;
+}
+li.last_child::before{
+	display:none;
+}
+ .steps li.current a .step-icon, .steps li.current a:active .step-icon, .steps .done::before, .steps li.done a .step-icon, .steps li.done a:active .step-icon {
+    background: #ba170b;
+}
+.steps li a .title .step-icon .wizard-status{
+	width: 33px;
+    height: 33px;
+	position: absolute;
+    right: -25%;
+    top: -7px;
+    background: rgba(173, 180, 191, 1);
+    border: 3px solid #FFFFFF;
+    border-radius: 50%;
+}
+.steps li a .title .step-icon .status_image {
+    height: 33px;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+.para_margin {
+    margin: 0px;
+}
+.icard_setup {
+    background: #fff;
+}
+.steps li.external_padding::before {
+    width: 128px !important;
+}
+.user_form .parentFormadmission_form.formError {
+    left: 12px !important;
+}
+li.wizard_responsive {
+    width: 16.3%;
+}
+img.tele-icon {
+    margin-top: -2px;
+}
+div#ui-datepicker-div {
+    width: 20% !important;
+}
+.work_out_datalist {
+  display: flex;
+  align-items: center;
+}
+span.workout_span {
+  padding: 10px;
+}
+.workout_day{
+  width:12%;
+}
+.nutrition_day {
+  width: 15%;
+}
+.nutrition_pdf{
+  padding-top:-10px;
+}
+.nutrition_pdf_margin_right{
+  margin-right:195px;
+}
+.nutrition_pdf_margin_right_description{
+  margin-top:-25px;
+  margin-right: 170px;
+}
+.workout_dayname{
+  width: 25%;
+}
+.workout_pdf_sets{
+  margin-left:100px;
+}
+.coupon_text {
+    text-transform: capitalize;
+}
+.coupon_display{
+	display:block !important;
+}
+span.select2 {
+  width: 100% !important;
+}
+span#select2-coupon_member_list-container {
+  color: #818386 !important;
+}
+.image_height_width{
+  height: 50px!important;
+  width: 50px!important;
+}
+.coupon_span{
+	color:red;
+	display:none;
+}
+.system_logo{
+  background:#ba170b;
+}
+.list_delete_btn{
+  border-top: 1px solid #dce1e4;
+
+}
+div#tax_list_paginate span a {
+  color: #ffffff !important;
+}
+div#class_list_paginate span a {
+    color: #ffffff !important;
+}
+.discount_display{
+  display: none;
+}
+.extend_popup_width{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 180px;
+}
+@media (max-width: 768px)
+{
+    div#ui-datepicker-div {
+        width: 65% !important;
+    }
+}

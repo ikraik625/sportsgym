@@ -1,0 +1,34 @@
+/* This CSS file is used for Staff Member View in Application */
+.gym-management-content .satff_member_app_hide
+{
+    margin-left: unset !important;
+    margin-top: unset !important;
+}.gym-management-content .page_main_div{    margin-top: 20% !important;}.forntend_dashboard_main_div .page_main_div{    margin-top: 20% !important;}.forntend_dashboard_main_div .min_height_1088 {   min-height: 550px !important;}
+.gym-management-content .gmgt-header .staff_member_app_dis_none
+{
+    display: none !important;
+}
+.membership_app_dis_none
+{
+    display: none !important;
+}
+.membershipadd_app_hide
+{
+    display: none !important;
+}
+.col-md-12.workout_datalist.no-padding.dis_flex
+{
+height: 450px;
+}
+.workout_box
+{
+    margin-left: 20px;
+}
+.workout_datalist .workout_box .gmgt-card-member-bg
+{
+    margin-left: 15px;
+}
+.workout_box .center
+{
+margin: 0 !important;
+}
